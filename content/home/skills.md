@@ -11,7 +11,6 @@ weight: 30
 
 title: Skills
 subtitle:
-- <https://yonea-koch.netlify.app/
   
 ---
  <div>AWS</div>
