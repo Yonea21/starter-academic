@@ -13,6 +13,7 @@ title: Skills
 subtitle:
 ---
  <div class="skill-name">AWS</div>
+ <div class="skill-name">DEVOPS</div>
  
 
 
