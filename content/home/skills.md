@@ -12,14 +12,10 @@ weight: 30
 title: Skills
 subtitle:
 ---
- <div class="skill-name">AWS</div>
- <div class="skill-name">DEVOPS</div>
- <div class="skills">
-
   <div class="skill">
-    <div class="skill-name">TIPING</div>
+    <div class="skill-name">Web development</div>
     <div class="skill-bar">
-      <div class="skill-per" per="90%" style="max-width:90%"></div>
+      <div class="skill-per" per="1%" style="max-width:90%"></div>
     </div>
   </div>
 
@@ -28,9 +24,9 @@ subtitle:
 <div class="skills">
 
   <div class="skill">
-    <div class="skill-name">AWS</div>
+    <div class="skill-name">Cloud</div>
     <div class="skill-bar">
-      <div class="skill-per" per="15%" style="max-width:100%"></div>
+      <div class="skill-per" per="1%" style="max-width:100%"></div>
     </div>
   </div>
 
@@ -39,13 +35,45 @@ subtitle:
 <div class="skills">
 
   <div class="skill">
-    <div class="skill-name">DEVOPS</div>
+    <div class="skill-name">Data Science</div>
     <div class="skill-bar">
-      <div class="skill-per" per="15%" style="max-width:100%"></div>
+      <div class="skill-per" per="0%" style="max-width:100%"></div>
     </div>
   </div>
 
 </div>
 
+<div class="skills">
+
+  <div class="skill">
+    <div class="skill-name">Java</div>
+    <div class="skill-bar">
+      <div class="skill-per" per="0%" style="max-width:100%"></div>
+    </div>
+  </div>
+
+</div>
+
+<div class="skills">
+
+  <div class="skill">
+    <div class="skill-name">Python</div>
+    <div class="skill-bar">
+      <div class="skill-per" per="0%" style="max-width:100%"></div>
+    </div>
+  </div>
+
+</div>
+
+<div class="skills">
+
+  <div class="skill">
+    <div class="skill-name">Cyber Security</div>
+    <div class="skill-bar">
+      <div class="skill-per" per="0%" style="max-width:100%"></div>
+    </div>
+  </div>
+
+</div>
 
 
