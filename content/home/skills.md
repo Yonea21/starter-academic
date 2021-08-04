@@ -30,7 +30,7 @@ subtitle:
   <div class="skill">
     <div class="skill-name">AWS</div>
     <div class="skill-bar">
-      <div class="skill-per" per="15%" style="max-width:90%"></div>
+      <div class="skill-per" per="15%" style="max-width:15%"></div>
     </div>
   </div>
 
@@ -41,7 +41,7 @@ subtitle:
   <div class="skill">
     <div class="skill-name">DEVOPS</div>
     <div class="skill-bar">
-      <div class="skill-per" per="15%" style="max-width:90%"></div>
+      <div class="skill-per" per="15%" style="max-width:15%"></div>
     </div>
   </div>
 
