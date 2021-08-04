@@ -42,21 +42,10 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-    active: false
   - icon: discord
     icon_pack: fab
     name: Discord
     link: 'yoneakoch #2346'
-  - icon: comments
-    active: false
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
-    active: false
 
 # Site header
 
