@@ -35,7 +35,6 @@ coordinates:
 directions: Enter Building and take the stairs to the Office on Floor 3
 office_hours:
   - 'Wednesday-Friday 08:00 to 17:00'
-  - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendly.com'
 active: false
 contact_links:
