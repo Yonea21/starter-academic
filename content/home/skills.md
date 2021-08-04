@@ -12,12 +12,7 @@ weight: 30
 title: Skills
 subtitle:
 ---
- <div class="skill-name">AWS</div> .skill-name{
-    font-size: 18px;
-    font-weight: 700;
-    text-transform: uppercase;
-    margin: 20px 0;
-  }
+ <div class="skill-name">AWS</div>
  
 
 
