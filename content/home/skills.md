@@ -37,7 +37,7 @@ subtitle:
 <div class="skills">
 
   <div class="skill">
-    <div class="skill-name">Java</div>
+    <div class="skill-name">Java2</div>
     <div class="skill-bar">
       <div class="skill-per" per="90%" style="max-width:90%"></div>
     </div>
