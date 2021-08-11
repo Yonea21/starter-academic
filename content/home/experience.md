@@ -39,7 +39,7 @@ experience:
   - title: Bartender
     company: Lago Lodge GmbH
     company_url: 'https://www.lagolodge.ch/en/'
-    company_logo: org-lago
+    company_logo: org-x
     location: Nidau
     date_start: '2020-01-01'
     date_end: '2021-08-01'
@@ -49,7 +49,7 @@ experience:
   - title: Receptionist
     company: City Hotel Biel Bienne GmbH
     company_url: 'https://www.cityhotel-biel.ch/'
-    company_logo: org-cityhotel
+    company_logo: org-x
     location: Biel/Bienne
     date_start: '2019-02-01'
     date_end: '2019-12-31'
@@ -59,7 +59,7 @@ experience:
   - title: CRM clerk
     company: Galenicare Management AG
     company_url: 'https://www.galenicare.com/de/'
-    company_logo: org-Galenicare
+    company_logo: org-x
     location: Bern
     date_start: '2018-12-01'
     date_end: '2019-01-31'
@@ -69,10 +69,13 @@ experience:
   - title: Commercial apprentice
     company: Biella Schweiz AG
     company_url: 'https://www.biella.ch/de/'
-    company_logo: org-Biella
+    company_logo: org-x
     location: Brügg
     date_start: '2015-08-01'
     date_end: '2018-08-01'
     description: |2-
         Apprentice
+
+#design:
+#  columns: '2'
 ---
