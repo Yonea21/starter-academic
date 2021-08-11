@@ -86,3 +86,14 @@ subtitle:
   </div>
 
 </div>
+
+<div class="skills">
+
+  <div class="skill">
+    <div class="skill-name">Rubrik</div>
+    <div class="skill-bar">
+      <div class="skill-per" per="90%" style="max-width:90%"></div>
+    </div>
+  </div>
+
+</div>
