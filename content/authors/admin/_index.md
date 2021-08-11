@@ -32,13 +32,6 @@ education:
     institution: Bildung Formation Biel/Bienne
     year: 2015-2018
 
-# Languages to show in About widget
-languages:
-- German
-- Spanish
-- English
-- French
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
