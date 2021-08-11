@@ -30,7 +30,7 @@ content:
   - name: FFHS
     tag: FFHS 
   - name: Amanox
-    tag: Amanox
+    tag: '*'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
