@@ -30,6 +30,8 @@ url_video: ""
 ---
 
 To build your own computer, you need to be aware of following components and their functions.
+
+
 •	Computer housing: 
    protects all the connected components – maybe even in a stylish way
 
@@ -55,6 +57,8 @@ To build your own computer, you need to be aware of following components and the
 
 •	Cooling:
     internal or external air cooling for avoiding overheated hardware
+
+
 
 Advanced questions:
 (My device is a Surface Book 2)
