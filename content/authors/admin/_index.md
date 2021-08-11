@@ -25,9 +25,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Computer Science
-    institution: Fernfachhochschule Schweiz
-    year: 2021-2025
   - course: Professional baccalaureate
     institution: Berufsbildungszentrum Biel/Bienne
     year: 2020-2021
