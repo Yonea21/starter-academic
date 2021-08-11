@@ -22,60 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Trainee
-    company: Amanox Solutions AG
-    company_url: 'https://www.amanox.ch/'
-    company_logo: org-amanox
-    location: Bern
-    date_start: '2021-08-02'
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Processing module orders
-        * Supporting the Private Cloud Team
-        * Developing skills 
+        * Analysing
+        * Modelling
+        * Deploying
         
-  - title: Bartender
-    company: Lago Lodge GmbH
-    company_url: 'https://www.lagolodge.ch/en/'
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
     company_logo: org-x
-    location: Nidau
-    date_start: '2020-01-01'
-    date_end: '2021-08-01'
-    description: |2-
-        Served homemade beer and regional delicacies
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Receptionist
-    company: City Hotel Biel Bienne GmbH
-    company_url: 'https://www.cityhotel-biel.ch/'
-    company_logo: org-x
-    location: Biel/Bienne
-    date_start: '2019-02-01'
-    date_end: '2019-12-31'
-    description: |2-
-        Front desk
-
-  - title: CRM clerk
-    company: Galenicare Management AG
-    company_url: 'https://www.galenicare.com/de/'
-    company_logo: org-x
-    location: Bern
-    date_start: '2018-12-01'
-    date_end: '2019-01-31'
-    description: |2-
-        Administration project
-
-  - title: Commercial apprentice
-    company: Biella Schweiz AG
-    company_url: 'https://www.biella.ch/de/'
-    company_logo: org-x
-    location: Brügg
-    date_start: '2015-08-01'
-    date_end: '2018-08-01'
-    description: |2-
-        Apprentice
-
-#design:
-#  columns: '2'
+design:
+  columns: '2'
 ---
