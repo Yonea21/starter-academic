@@ -51,30 +51,31 @@ To build your own computer, you need to be aware of following components and the
   internal or external air cooling for avoiding overheated hardware
 
 Advanced questions:
+(My device is a Surface Book 2)
 
 1.	How fast (in GHz) is the CPU you are using right now?
-i5-7300U 2.60 GHz
+    i5-7300U 2.60 GHz
 
 2.	What chipset is on the motherboard? Could there be more options?
-More options?
-Windows 10 Pro Creators Update 64 Bit
+    More options?
+    Windows 10 Pro Creators Update 64 Bit
 
 3.	How many gigabytes of RAM are in the PC you’re using?
-8.00 GB  Ram
+    8.00 GB  Ram
 
 4.	What is/are the storage medium/media in your PC?
-PCLe Solid-State-Laufwerk (SSD) 256 GB, local hard disk C:
+    PCLe Solid-State-Laufwerk (SSD) 256 GB, local hard disk C:
 
 5.	Where is the PSU in your PC? What about a laptop?
-PC  trhough motherboard
-Laptop  externally
+    PC trhough motherboard
+    Laptop externally
 
 6.	Do you have a GPU?
-HD-Grafik 620-GPU
+    HD-Grafik 620-GPU
 
 7.	How does the cooling work in your device? What about a smartphone?
-my device: Air  highly developed air conduction system inside. Cooling ist provided by a fan similar in design to an aircraft turbine
-Smartphone: Heatpipe  small pipe that transmits heat to the outside
+    My device: (Air) highly developed air conduction system inside; cooling is provided by a fan similar in design to an aircraft turbine
+    Smartphone: (Heatpipe) small pipe that transmits heat to the outside
 
 
 
