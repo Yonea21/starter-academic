@@ -47,8 +47,4 @@ item:
   organization_url: https://cambridge-exams.ch/de/fce-cambridge-english-first
   title: Cambridge First Certificate in English
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-
-
-design:
-  columns: '2' 
 ---
