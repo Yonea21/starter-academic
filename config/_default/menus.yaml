@@ -8,14 +8,6 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
-    active: false
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    active: false
-    url: '#featured'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 40
