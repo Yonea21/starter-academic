@@ -31,7 +31,7 @@ url_video: ""
 
 To build your own computer, you need to be aware of following components and their functions.
 
-•	Computer housing  protects all the connected components – maybe even in a stylish way
+•	Computer housing :arrow: protects all the connected components – maybe even in a stylish way
 •	Motherboard  Also Mainboard, is the main component that connects every other component with eachother
 •	CPU (central processing unit)  Similar to the human brain, it calculates every command made on a PC 
 •	RAM (random access memory)  Mostly 8 or 16 GB enables the CPU to work faster whilst using it as a temporary storage
