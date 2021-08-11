@@ -1,6 +1,6 @@
 ---
 title: Hardware Basics
-summary: Demo Side
+summary: Following Jim's module 
 tags:
 - PiBS
 date: 27-06-2020
