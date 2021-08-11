@@ -22,6 +22,12 @@ interests:
 - Developing trainee diary
 - Improving skills
 
+languages:
+- German
+- Spanish
+- English
+- French
+
 # Education to show in About widget
 education:
   courses:
