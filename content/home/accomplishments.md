@@ -23,21 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: https://www.erz.be.ch/erz/de/index/berufsbildung/berufsmaturitaet.html
+  date_end: "2021-07-01"
+  date_start: "2020-01-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: BBZ
+  organization_url: https://www.bbz-cfp.ch/
+  title: Berufsmaturitätszeugnis
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+- certificate_url: https://www.cambridgeenglish.org/de/exams-and-tests/first/
+  date_end: "2017-09-01"
+  date_start: "2017-03-01"
+  description: ""
+  organization: Cambridge Assessment English
+  organization_url: https://cambridge-exams.ch/de/fce-cambridge-english-first
+  title: Cambridge First Certificate in English
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
