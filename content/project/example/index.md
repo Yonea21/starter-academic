@@ -1,5 +1,5 @@
 ---
-title: My First Project
+title: Hardware Basics
 summary: Demo Side
 tags:
 - PiBS
