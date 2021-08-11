@@ -1,6 +1,6 @@
 ---
-title: Building my dream computer
-summary: Following Jim's module part 2
+title: First Week @Amanox
+summary: The beginnning of a new chapter
 tags:
 - PiBS
 date: 27-06-2020
@@ -9,18 +9,8 @@ date: 27-06-2020
 external_link: ""
 
 image:
-  caption: Photo by Alexandre Debiève on Unsplash
+  caption: Photo by Pero Kalimero on Unsplash
   focal_point: Smart
-
-links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -28,3 +18,4 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
+Luckly I was given the opportunity to get some highquality education!
