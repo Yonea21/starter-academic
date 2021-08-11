@@ -76,6 +76,6 @@ experience:
     description: |2-
         Apprentice
 
-design:
-  columns: '2'
+#design:
+#  columns: '2'
 ---
