@@ -22,55 +22,55 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Trainee PiBS
+    company: Amanox Soluntions AG
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Bern
+    date_start: '2021-08-02'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Complete modules
+        * Support Private Cloud Team
+        * Keep Trainee diary up to date
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Bartender
+    company: Lago Lodge GmbH
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Nidau
+    date_start: '2020-01-01'
+    date_end: '2021-08-01'
+    description: Served homemade beer and regional delicacies
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Receptionist
+    company: City Hotel Biel Bienne GmbH
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Biel
+    date_start: '2019-02-01'
+    date_end: '2019-12-31'
+    description: Front office
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: CRM Clerk
+    company: Galenicare Management AG
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Bern
+    date_start: '2018-12-01'
+    date_end: '2019-01-31'
+    description: Project collaboration
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Commercial apprentice
+    company: Biella Schweiz AG
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Brügg
+    date_start: '2015-08-01'
+    date_end: '2018-08-01'
+    description: Apprentice
 
 design:
   columns: '2'
