@@ -43,7 +43,8 @@ experience:
     location: Nidau
     date_start: '2020-01-01'
     date_end: '2021-08-01'
-    description: Served homemade beer and regional delicacies
+    description: |2-
+        Served homemade beer and regional delicacies
 
   - title: Receptionist
     company: City Hotel Biel Bienne GmbH
@@ -52,7 +53,8 @@ experience:
     location: Biel/Bienne
     date_start: '2019-02-01'
     date_end: '2019-12-31'
-    description: Front desk
+    description: |2-
+        Front desk
 
   - title: CRM clerk
     company: Galenicare Management AG
@@ -61,7 +63,8 @@ experience:
     location: Bern
     date_start: '2018-12-01'
     date_end: '2019-01-31'
-    description: Administration project
+    description: |2-
+        Administration project
 
   - title: Commercial apprentice
     company: Biella Schweiz AG
@@ -70,7 +73,8 @@ experience:
     location: Brügg
     date_start: '2015-08-01'
     date_end: '2018-08-01'
-    description: Apprentice
+    description: |2-
+        Apprentice
 
 design:
   columns: '2'
