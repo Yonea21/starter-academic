@@ -92,17 +92,30 @@ To build your own computer, you need to be aware of following components and the
 
 ###### This Blog is work in progress. I will post some new stuff soon.
 
+
 Colons can be used to align columns.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 Bits and bytes
 ===============
 
+**1. Say you have a gigabit internet connection (downstream). How many kilobytes can you download per second?​**
+`1'000'000 KB`
+​
+
+**2. How many bits are in a Mebibyte?** ​
+`1'048'576 / 8 = 131'072`
+​
+
+**3. You buy an HDD advertised with 1TB. How much usable space will the Windows operating system report you and why?**
+`953 GB`  `
+`1024 GB would be usable in theory. On "Base 10" 1 TB equals 1'099'511'627'776 bits on "Base 2" (2^40). The PC shows usable space in gigabyte. So we make the calculation {(2^40) / (2^30) = 1024}`
 
 
 
