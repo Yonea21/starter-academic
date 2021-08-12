@@ -30,7 +30,6 @@ url_video: ""
 ---
 
 To build your own computer, you need to be aware of following components and their functions.
----------------------------------------------------------------------------------------------
 
 **Computer housing:** 
    protects all the connected components – maybe even in a stylish way  
@@ -63,7 +62,6 @@ To build your own computer, you need to be aware of following components and the
 
 ## Advanced questions:
 `(My device is a Surface Book 2)`
--------------------------------------
 
 #### 1.	How fast (in GHz) is the CPU you are using right now?
    `i5-7300U 2.60 GHz`
@@ -114,7 +112,8 @@ Bits and bytes
 ​
 
 **3. You buy an HDD advertised with 1TB. How much usable space will the Windows operating system report you and why?**
-`953 GB`  `
+`953 GB`
+
 `1024 GB would be usable in theory. On "Base 10" 1 TB equals 1'099'511'627'776 bits on "Base 2" (2^40). The PC shows usable space in gigabyte. So we make the calculation {(2^40) / (2^30) = 1024}`
 
 
