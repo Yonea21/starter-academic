@@ -29,6 +29,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 Here's a list of parts i would choose to build my own pc:
-https://www.digitec.ch/de/shopList/show/3D5728899D9C9AB362CA0C9DD0376E73
+[What do you think?]("https://www.digitec.ch/de/shopList/show/3D5728899D9C9AB362CA0C9DD0376E73")
 
 You may ask yourself why i chose those parts. Let me explain.
