@@ -1,5 +1,5 @@
 ---
-title: Hardware Basics
+title: Hypothetical machine
 summary: Following Jim's module 
 tags:
 - PiBS
