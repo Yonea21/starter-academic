@@ -27,7 +27,7 @@ item:
   date_end: "2021-07-01"
   date_start: "2020-01-01"
   description: ""
-  organization: Federal professional baccalaureate
+  organization: Berufsbildungszentrum Biel
   organization_url: https://www.coursera.org
   title: Federal professional baccalaureate
   url: ""
