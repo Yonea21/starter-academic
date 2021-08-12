@@ -34,10 +34,10 @@ Further on "real business" started. We got introduced to our first new task. To 
 
 Sometimes i struggled pushing the modifications and couldn't find out why by my self. So gladly, Fabian and Rafael where there to help me out in stagnant situations.
 
-It was fun to learn so many new things and getting a tiny glims into the depth of Computer Science. I really enjoy being in the office and working on my trainee diary while fumbling my way in.  
-
 For Melanie, who works in marketing, i wrote the blog about our first day at Amanox and made an account on linkedin. Rafael, new Amanoxian, Xavier and I also had an additional business introduction from Martin. He showed us our organisational chart and explainded what Amanox specialises in.
 
 Later on we decided how our work schedule would look like. My official School day is every Monday. Tuesday would be the variable self-study day. Meaning if a coach issues a module on a tuesday, I postpone the self-study day.
+
+It was fun to learn so many new things and getting a tiny glims into the depth of Computer Science. I really enjoy being in the office and working on my trainee diary while fumbling my way in.  
 
 "Far and away the best prize that life offers is the chance to work hard at work worth doing" - Tehodore Roosevelt
