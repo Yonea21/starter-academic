@@ -30,9 +30,6 @@ The joy was big when we stood in front of the Adventure Room in Bern. In the bas
 
 It was a great pleasure getting such a nice start in the new chapter.
 
-
-Real business:
-
 Further on "real business" started. We got introduced to our first new task. To build our trainee diary, which you are visiting right now. Working through Fabian's guidance, we learned step by step on how to create our website using github and netlify. To adjust the websites content we use Visual Studio Code and push the changements. This was my main task for the week. For Melanie, who works in marketing, i wrote the blog about our first day at Amanox and made an account on linkedin. Rafael, new Amanoxian, Xavier and I also had an additional business introduction from Martin. He showed us our organisational chart and explainded what Amanox specialises in.
 
 Later on we decided how our work schedule would look like. My official School day is every Monday. Tuesday would be the variable self-study day. Meaning if a coach issues a module on a tuesday, I postpone the self-study day.
