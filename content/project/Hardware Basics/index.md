@@ -112,6 +112,7 @@ Bits and bytes
 ​
 
 **3. You buy an HDD advertised with 1TB. How much usable space will the Windows operating system report you and why?**
+
 `953 GB`
 
 `1024 GB would be usable in theory. On "Base 10" 1 TB equals 1'099'511'627'776 bits on "Base 2" (2^40). The PC shows usable space in gigabyte. So we make the calculation {(2^40) / (2^30) = 1024}`
