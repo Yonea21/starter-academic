@@ -30,7 +30,7 @@ url_video: ""
 ---
 
 To build your own computer, you need to be aware of following components and their functions.
-
+---------------------------------------------------------------------------------------------
 
 **Computer housing:** 
    protects all the connected components – maybe even in a stylish way  
@@ -60,13 +60,14 @@ To build your own computer, you need to be aware of following components and the
 
 
 
-Advanced questions:
-(My device is a Surface Book 2)
+## Advanced questions:
+`(My device is a Surface Book 2)`
+-------------------------------------
 
 #### 1.	How fast (in GHz) is the CPU you are using right now?
    `i5-7300U 2.60 GHz`
 
-#### 2.   What chipset is on the motherboard? Could there be more options?
+#### 2.   What chipset is on the motherboard? Could there be more options?  
    `Windows 10 Pro Creators Update 64 Bit`
 
 #### 3.	How many gigabytes of RAM are in the PC you’re using?
@@ -82,13 +83,21 @@ Advanced questions:
 #### 6.	Do you have a GPU?
    `HD-Grafik 620-GPU`
 
-#### 7.   How does the cooling work in your device? What about a smartphone?
+#### 7.   How does the cooling work in your device? What about a smartphone?  
    `My device: (Air) highly developed air conduction system inside; cooling is provided by a fan similar in design to an aircraft turbine`  
    `Smartphone: (Heatpipe) small pipe that transmits heat to the outside`
 
 
 
 ###### This Blog is work in progress. I will post some new stuff soon.
+
+Colons can be used to align columns.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 
 Bits and bytes
 ===============
