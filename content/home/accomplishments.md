@@ -23,28 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.bbz-cfp.ch/
   date_end: "2021-07-01"
   date_start: "2020-01-01"
   description: ""
   organization: Berufsbildungszentrum Biel
-  organization_url: https://www.coursera.org
+  organization_url: https://www.bbz-cfp.ch/
   title: Federal professional baccalaureate
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://cambridge-exams.ch/de/fce-cambridge-english-first
   date_end: "2017-09-01"
   date_start: "2017-03-01"
   description: 
   organization: Cambridge Assessment English
-  organization_url: https://www.edx.org
+  organization_url: https://cambridge-exams.ch/de/fce-cambridge-english-first
   title: Cambridge B2 First (FCE)
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+  url: ""
+- certificate_url: https://www.dfpsuisse.ch/
   date_end: "2018-05-01"
   date_start: "2018-03-01"
   description: ""
   organization: Centre d'examens suisse DFP
-  organization_url: https://www.datacamp.com
+  organization_url: https://www.dfpsuisse.ch/
   title: Diplôme de français professionnel
   url: ""
 
