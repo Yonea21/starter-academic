@@ -40,5 +40,4 @@ For Melanie, who works in marketing, i wrote the blog about our first day at Ama
 
 Later on we decided how our work schedule would look like. My official School day is every Monday. Tuesday would be the variable self-study day. Meaning if a coach issues a module on a tuesday, I postpone the self-study day.
 
-
-Luckily I was given the opportunity to get some highquality education!
+"Far and away the best prize that life offers is the chance to work hard at work worth doing" - Tehodore Roosevelt
