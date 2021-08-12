@@ -60,6 +60,7 @@ To build your own computer, you need to be aware of following components and the
 
 
 
+
 ## Advanced questions:
 `(My device is a Surface Book 2)`
 -------------------------------------
