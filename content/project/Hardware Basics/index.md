@@ -87,7 +87,7 @@ url_video: ""
 CPU - in - depth
 =================
 
-![Wich one of the shown CPUs will perform best?](trainee-diary\assets\media\cpuindepth.jpg "<b>Wich one of the shown CPUs will perform best?</b>")
+**Wich one of the shown CPUs will perform best?**
 
 | CPU 1         | CPU 2         | CPU 3 |
 | ------------- |:-------------:| -----:|
@@ -99,6 +99,7 @@ CPU - in - depth
 
 > I would say CPU 1 will perform best because it has the best base clock and boost clock speed. Although CPU 2 is a good competator as it improves in high core and cache.
 
+A chip is made of a very simple raw material. Sand. 
 
 <br>
 
@@ -148,3 +149,18 @@ Johnny Simulator
 ================
 
 [Youtoube tutorial](https://www.youtube.com/watch?v=CcZbqOHWyQY)
+
+> Creating a sequence in the Johnny simulator that takes 2 numbers from any 2 registers, multiplies them and writes the result to another register.
+
+*Optional:*
+> Creating a macro-command to multiply (like ADD)  
+> Creating a sequence to calculate the KGV or GGT  
+> Making a division or modulo sequence
+
+<br>
+
+Boolean algebra
+=================
+
+> Documentation about `transistors` and `logic gates`
+
