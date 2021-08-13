@@ -87,7 +87,7 @@ url_video: ""
 CPU - in - depth
 =================
 
-![Wich one of the shown CPUs will perform best?](cpuindepth.jpg "<b>Wich one of the shown CPUs will perform best?</b>")
+![Wich one of the shown CPUs will perform best?](C:\Users\yonea\code\starter-academic\trainee-diary\assets\media\icons\cpuindepth.jpg "<b>Wich one of the shown CPUs will perform best?</b>")
 
 <br>
 
