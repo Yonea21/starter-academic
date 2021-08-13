@@ -98,13 +98,14 @@ Colons can be used to align columns.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+<br>
 
 CPU - in - depth
 =================
 
 
 
-
+<br>
 
 Bits and bytes
 ===============
