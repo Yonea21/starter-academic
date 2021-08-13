@@ -132,3 +132,8 @@ Binary number system
 `:= Yonea`
 
 <b>
+
+Johnny Simulator
+================
+
+[Youtoube tutorial](https://www.youtube.com/watch?v=CcZbqOHWyQY)
