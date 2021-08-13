@@ -55,28 +55,27 @@ url_video: ""
 
 <br>
 
-Advanced questions:
-(My device is a Surface Book 2)
+> Advanced questions:(My device is a Surface Book 2)
 
- 1.	How fast (in GHz) is the CPU you are using right now?
+ 1.	How fast (in GHz) is the CPU you are using right now?  
    i5-7300U 2.60 GHz
 
  2.   What chipset is on the motherboard? Could there be more options?  
    Windows 10 Pro Creators Update 64 Bit  
    For this product there's just 64 Bit available 
 
- 3.	How many gigabytes of RAM are in the PC you’re using?
+ 3.	How many gigabytes of RAM are in the PC you’re using?  
    8.00 GB  Ram
 
- 4.	What is/are the storage medium/media in your PC?
+ 4.	What is/are the storage medium/media in your PC?  
    PCIe (:= Peripheral Component Interconnect Express)  
    Solid-State-Laufwerk (SSD) 256 GB, local hard disk C:
 
- 5.	Where is the PSU in your PC? What about a laptop?
+ 5.	Where is the PSU in your PC? What about a laptop?  
    PC trhough motherboard  
    Laptop externally
 
- 6.	Do you have a GPU?
+ 6.	Do you have a GPU?  
    HD-Grafik 620-GPU
 
  7.   How does the cooling work in your device? What about a smartphone?  
