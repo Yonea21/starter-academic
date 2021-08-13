@@ -55,7 +55,7 @@ url_video: ""
 
 <br>
 
-> Advanced questions:(My device is a Surface Book 2)
+> Advanced questions: (My device is a Surface Book 2)
 
  1.	How fast (in GHz) is the CPU you are using right now?  
    i5-7300U 2.60 GHz
@@ -88,6 +88,17 @@ CPU - in - depth
 =================
 
 ![Wich one of the shown CPUs will perform best?](trainee-diary\assets\media\cpuindepth.jpg "<b>Wich one of the shown CPUs will perform best?</b>")
+
+| CPU 1         | CPU 2         | CPU 3 |
+| ------------- |:-------------:| -----:|
+| i9            | AMD           | i5    |
+| 64-Bit        | 64-Bit        | 64-Bit |
+| 3.50-5.30 GHz | 3.40-4.90 GHz | 2.7-4.6 GHz |
+| 8 Cores       | 16 Cores      | 6 Cores   |
+| 16 MB Cache   | 64 MB Cache   | 12 MB Cache  |
+
+> I would say CPU 1 will perform best because it has the best base clock and boost clock speed. Although CPU 2 is a good competator as it improves in high core and cache.
+
 
 <br>
 
