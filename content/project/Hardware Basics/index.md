@@ -87,7 +87,7 @@ Advanced questions:
 CPU - in - depth
 =================
 
-
+![Wich one of the shown CPUs will perform best?](cpuindepth.jpg "<b>Wich one of the shown CPUs will perform best?</b>")
 
 <br>
 
