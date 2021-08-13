@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/fabianbrunner
+- icon:
+  icon_pack:
+  name:
+  url:
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -88,7 +88,7 @@ Advanced questions:
    HD-Grafik 620-GPU
 
  7.   How does the cooling work in your device? What about a smartphone?  
- 
+
    My device: (Air) highly developed air conduction system inside; cooling is provided by a fan similar in design to an aircraft turbine  
    Smartphone: (Heatpipe) small pipe that transmits heat to the outside
 
