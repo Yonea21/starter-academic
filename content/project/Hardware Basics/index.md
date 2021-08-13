@@ -129,7 +129,7 @@ Binary number system
 
 `01000001011011010110000101101110011011110111100000100000010101000110010101100001`
 
->  Each character uses 8-bits. Let's divide for more perspective. [Using ASCII table](rapidtables.com/code/text/ascii-table.html)
+>  Each character uses 8-bits. Let's divide for more perspective. [Using ASCII table](https://www.rapidtables.com/code/text/ascii-table.html)
 
 `01000001 01101101 01100001 01101110 01101111 01111000 00100000 01010100 01100101 01100001`
 
