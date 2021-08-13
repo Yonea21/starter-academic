@@ -123,5 +123,11 @@ Binary number system
 
 > A  m  a  n  o  x   `space (=: 001000000)`   T  e  a
 
+<br>
 
+##### Let's write my name in a binary sequence!
 
+`0101100101101111011011100110010101100001`
+`Yonea`
+
+<b>
