@@ -15,7 +15,7 @@ image:
 links:
 - icon: linkedin
   icon_pack: fab
-  name: Network
+  name: 
   url: https://www.linkedin.com/in/yonea-koch-2543a0219/
 url_code: ""
 url_pdf: ""
