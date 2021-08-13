@@ -128,6 +128,7 @@ Binary number system
 ##### Let's write my name in a binary sequence!
 
 `0101100101101111011011100110010101100001`
-`Yonea`
+
+`:= Yonea`
 
 <b>
