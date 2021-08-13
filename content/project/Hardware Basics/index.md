@@ -41,7 +41,7 @@ url_video: ""
 
 **Hard Disk:**
    SSD = solid state drive  
-   HHD = hard disk drive  
+   HDD = hard disk drive  
    SSD and HHD both enable physical, long term storage  
 
 **PSU (power supply unit):**
@@ -69,10 +69,11 @@ Advanced questions:
    8.00 GB  Ram
 
  4.	What is/are the storage medium/media in your PC?
-   PCLe Solid-State-Laufwerk (SSD) 256 GB, local hard disk C:
+   PCIe (:= Peripheral Component Interconnect Express)  
+   Solid-State-Laufwerk (SSD) 256 GB, local hard disk C:
 
  5.	Where is the PSU in your PC? What about a laptop?
-   PC trhough motherboard
+   PC trhough motherboard  
    Laptop externally
 
  6.	Do you have a GPU?
