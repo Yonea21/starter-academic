@@ -108,5 +108,20 @@ Bits and bytes
 
 `1024 GB would be usable in theory. 1 TB on "Base 10"  equals 1'099'511'627'776 (=:2^40) bits on "Base 2". The PC shows usable space in gigabyte. So we make the calculation {(2^40)TiB / (2^30)GiB = 1024 GB} 1024 := 1 kibibyte`
 
+<br>
+
+Binary number system
+=====================
+
+> Decoding the following binary sequences to text. 
+
+`01000001011011010110000101101110011011110111100000100000010101000110010101100001`
+
+>  Each character uses 8-bits. Let's divide for more perspective. [Using ASCII table](rapidtables.com/code/text/ascii-table.html)
+
+`01000001 01101101 01100001 01101110 01101111 01111000 00100000 01010100 01100101 01100001`
+
+> A m a n o x `space (=: 001000000)` T e a
+
 
 
