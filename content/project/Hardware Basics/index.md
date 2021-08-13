@@ -27,30 +27,30 @@ url_video: ""
 
 > To build your own computer, you need to be aware of following components and their functions.
 
-**Computer housing:** 
+**Computer housing:**  
    protects all the connected components – maybe even in a stylish way  
 
-**Motherboard:**
+**Motherboard:**  
    Also known as Mainboard, is the main component that connects every other component with eachother  
 
-**CPU (central processing unit):**
+**CPU (central processing unit):**  
    Similar to the human brain, it calculates every command made on a PC  
 
-**RAM (random access memory):**
+**RAM (random access memory):**  
    Mostly 8 or 16 GB enables the CPU to work faster whilst using it as a temporary storage  
 
-**Hard Disk:**
+**Hard Disk:**  
    SSD = solid state drive  
    HDD = hard disk drive  
    SSD and HHD both enable physical, long term storage  
 
-**PSU (power supply unit):**
+**PSU (power supply unit):**  
    This component fuels the PC with electricity  
 
-**GPU (graphics processing unit):**
+**GPU (graphics processing unit):**  
    Enables 2D and 3D graphic programs to work as flawless as possible  
 
-**Cooling:**
+**Cooling:**  
    internal or external air cooling for avoiding overheated hardware  
 
 <br>
