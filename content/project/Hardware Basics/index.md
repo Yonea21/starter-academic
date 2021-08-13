@@ -57,8 +57,7 @@ To build your own computer, you need to be aware of following components and the
 **Cooling:**
    internal or external air cooling for avoiding overheated hardware  
 
-
-
+<br>
 
 Advanced questions:
 (My device is a Surface Book 2)
