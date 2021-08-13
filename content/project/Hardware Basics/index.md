@@ -109,7 +109,7 @@ Bits and bytes
 
 `953 GB`
 
-`1024 GB would be usable in theory. On "Base 10" 1 TB equals 1'099'511'627'776 bits on "Base 2" (2^40). The PC shows usable space in gigabyte. So we make the calculation {(2^40) / (2^30) = 1024}`
+`1024 GB would be usable in theory. 1 TB on "Base 10"  equals 1'099'511'627'776 (=:2^40) bits on "Base 2". The PC shows usable space in gigabyte. So we make the calculation {(2^40)TiB / (2^30)GiB = 1024 GB} 1024 := 1 kibibyte`
 
 
 
