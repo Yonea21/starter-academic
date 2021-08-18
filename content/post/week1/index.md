@@ -39,6 +39,9 @@ cd . (enters or leaves path)
 ls . (list) 
 ```
 ```
+git pull
+```
+```
 git add --all
 git commit -m "grow blog"
 git push
