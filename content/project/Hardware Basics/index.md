@@ -160,6 +160,7 @@ Type of language - Replace micro commands with macro commands
 Opnd := Operand
 Tells Johnny on what adress he should operate
 ``` 
+<br>
 
 > + Creating a sequence in the Johnny simulator that takes 2 numbers from any 2 registers, multiplies them and writes the result to another register.
 
@@ -172,13 +173,22 @@ Tells Johnny on what adress he should operate
 
 **The Ram on your Johnny Simulator should look like this:**
 
-*Include Screenshots*
+*(Include Screenshots)*
 
 
 *Optional:*
-> + Creating a macro-command to multiply (like ADD)  
+> + Creating a macro-command to multiply (like ADD) 
+
++ Activate the *"Ctrl"* in the navigation bar
++ dfsadf
+
 > + Creating a sequence to calculate the KGV or GGT  
+
++ dfsadf
+
 > + Making a division or modulo sequence
+
++ dfsadf
 
 <br>
 
