@@ -162,12 +162,13 @@ Tells Johnny on what adress he should operate
 ``` 
 
 > + Creating a sequence in the Johnny simulator that takes 2 numbers from any 2 registers, multiplies them and writes the result to another register.
-```
-+ Open RAM
-+ Use the file *"multiplikation.ram"*
+
++ Open RAM (on Macro Code)
++ Use the file *"multiplikation.ram"* (comes with the installation)
 + Make sure there are no errors
-+ Click through *"one makro step"* until the numbers 3 and 5 multiplied and the accumulator shows the result 15
-```
++ Click through *"one makro step"* until the numbers 4 and 6 multiplied and the accumulator shows the result 24  
+  While clicking through it saves the numbers until you reached your result
+
 **The Ram on your Johnny Simulator should look like this:**
 
 
