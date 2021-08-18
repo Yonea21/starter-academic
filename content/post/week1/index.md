@@ -39,7 +39,7 @@ cd . (enters or leaves path)
 ls . (list) 
 ```
 ```
-git pull
+git pull (enables pushing)
 ```
 ```
 git add --all
