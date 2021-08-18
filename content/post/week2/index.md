@@ -32,3 +32,8 @@ I had to make sure to start with Jim's module [Hardware Basics](https://yonea-ko
 Dan, our boss, showed Xavier and me the building and what places we can use in this facility. There's a super nice roof terrace for grabbing some fresh air if needed. If you want to do some activities to strenghten Team bonding, go downstairs in the cellar and play pingpong or soccer box game. When you're having a hard time you can visit our quiet room and take a powernap. There's also a lunchroom for use, when you want to heat up your leftovers.
 
 The studyprogramm I'm enrolled in, requiers its students to prepare themselves in advance. I used this week to do the reading tasks and preparations for the modules. In the beginning phase I find it quite difficult to understand everything from the start. Let's see how well I'll adapt.
+
+<br>
+
+08/18/21 - 08/20/21
+======================

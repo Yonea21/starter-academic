@@ -30,7 +30,13 @@ The joy was big when we stood in front of the Adventure Room in Bern. In the bas
 
 It was a great pleasure getting such a nice start in the new chapter.
 
-Further on "real business" started. We got introduced to our first task: to build our trainee diary, which you are visiting right now. Working through Fabian's guid, we learned step by step on how to create our website using Github and Netlify. To adjust the website content we use Visual Studio Code and push the changes. This was my main task for the week. I learned how to use commands on powershell like: `cd .` (enters or leaves path) / `ls .` (list) and for pushing the modifications i used the command `git add --all` / `git commit -m "grow blog"` / `git push`
+Further on "real business" started. We got introduced to our first task: to build our trainee diary, which you are visiting right now. Working through Fabian's guid, we learned step by step on how to create our website using Github and Netlify. To adjust the website content we use Visual Studio Code and push the changes. This was my main task for the week. I learned how to use commands on powershell like:
+
+```
+cd . (enters or leaves path)
+```
+
+ / `ls .` (list) and for pushing the modifications i used the command `git add --all` / `git commit -m "grow blog"` / `git push`
 
 Sometimes i struggled pushing the modifications and couldn't find out why by my self. So gladly, Fabian and Rafael where there to help me out in stagnant situations.
 
