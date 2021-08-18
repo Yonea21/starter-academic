@@ -58,4 +58,4 @@ Linear Algebra
 ```
 
 
- Reading about transistors and logic gates
+Continuing Jim's module I processed the tutorial for the Progra Reading about transistors and logic gates
