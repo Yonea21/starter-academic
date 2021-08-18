@@ -154,10 +154,10 @@ Johnny Simulator
 
 **Legend**
 ```
-Asm := Assembly
+Asm   := Assembly
 Type of language - Replace micro commands with macro commands  
 
-Opnd := Operand
+Opnd  := Operand
 Tells Johnny on what adress he should operate
 ``` 
 <br>
@@ -169,12 +169,13 @@ Tells Johnny on what adress he should operate
 + Make sure there are no errors
 + Click through *"one makro step"* until the numbers 4 and 6 multiplied and the accumulator shows the result 24.
 
-> While clicking through it saves the numbers until you reached your result
+> While continuously clicking the "play" button, it saves the numbers until you reached your result
 
 **The Ram on your Johnny Simulator should look like this:**
 
 *(Include Screenshots)*
 
+<br>
 
 *Optional:*
 > + Creating a macro-command to multiply (like ADD) 
@@ -201,7 +202,7 @@ on  := electric current flows
 off := electric current does not flow
 ```
 Chaining tranistors together leads to a `logic gate`, which enables adding, subracting, multiplyin and dividing by binary numbers `(1s & 0s)`.
-> **Input:**  Voltage
+> **Input:**  Voltage  
 > **Output:** decides wether it switches on or stays switched off
 
 
