@@ -35,8 +35,15 @@ Further on "real business" started. We got introduced to our first task: to buil
 ```
 cd . (enters or leaves path)
 ```
-
- / `ls .` (list) and for pushing the modifications i used the command `git add --all` / `git commit -m "grow blog"` / `git push`
+```
+ls . (list) 
+```
+```
+and for pushing the modifications i used the command: 
+git add --all
+git commit -m "grow blog"
+git push
+```
 
 Sometimes i struggled pushing the modifications and couldn't find out why by my self. So gladly, Fabian and Rafael where there to help me out in stagnant situations.
 
