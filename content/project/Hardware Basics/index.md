@@ -201,9 +201,28 @@ To control the flow in a computer we use a gate and achieve an end goal. This fl
 on  := electric current flows
 off := electric current does not flow
 ```
-Chaining tranistors together leads to a `logic gate`, which enables adding, subracting, multiplyin and dividing by binary numbers `(1s & 0s)`.
-> **Input:**  Voltage  
-> **Output:** decides wether it switches on or stays switched off
+Chaining transistors together leads to a `logic gate`, which enables adding, subtracting, multiplying and dividing by binary numbers `(1s & 0s)`.
+> **Input:**    Voltage  
+> **Output:**   decides wether it switches on or stays switched off
+
+Some decades ago, a collection of transistors was put together and led to:
+```
+Integrated circuit := IC
+```
+Nowdays we speak about very large scale integrated ICs `(:=VLSI)`. Those contain up to billions of transistors into one tiny package.
+
+> Logic Gates:
+```
+AND; OR; NOT; XOR; NAND; NOR
+```
+Each logic gate has its specific way of coping. Disregarding therof, the in- and outputs will break everything down to two binary numbers. 
+
+**AND:**  requiers two inputs for there to be an output  
+**OR:**   requiers one input for there to be an output  
+**NOT:**  requiers one input; always produces an opposite output  
+**XOR:**  requiers one diffrent input; either/or situation    
+**XNOR:** requiers two same inputs; opposite of `XOR`  
+**NAND:** 
 
 
 
