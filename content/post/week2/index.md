@@ -46,7 +46,7 @@ Classroom event
 Post-processing
 ```
 
-*Each phase is crucial for fully understanding the modules:*  
+*Each phase is crucial for fully understanding the following modules:*  
 
 ```
 Project management

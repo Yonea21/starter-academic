@@ -225,7 +225,11 @@ Each logic gate has its specific way of coping. Disregarding therof, the in- and
 **NAND:**   opposite output of `AND`; `NOT` logic applied to `AND`  
 **NOR:**    opposite output of `OR`; `NOT` logic applied to `OR`  
 
-
-
 > + Documentation about `transistors` and `logic gates`
+
+<br>
+
+Manipulating program CookieClicker with CheatEngine
+===================================================
+
 
