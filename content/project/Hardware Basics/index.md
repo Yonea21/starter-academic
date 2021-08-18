@@ -110,19 +110,17 @@ A chip is made of a very simple raw material. Sand.
 Bits and bytes
 ===============
 
-1. Say you have a gigabit internet connection (downstream). How many kilobytes can you download per second?​
-`1'000'000 KB`
+1. Say you have a gigabit internet connection (downstream). How many kilobytes can you download per second?​  
+`1'000'000 KB`  
 ​
 
-2. How many bits are in a Mebibyte? ​
-`1'048'576 / 8 = 131'072`
+2. How many bits are in a Mebibyte?  
+`1'048'576 / 8 = 131'072`  
 ​
 
-3. You buy an HDD advertised with 1TB. How much usable space will the Windows operating system report you and why?
-
-`953 GB`
-
-`1024 GB would be usable in theory. 1 TB on "Base 10"  equals 1'099'511'627'776 (=:2^40) bits on "Base 2". The PC shows usable space in gigabyte. So we make the calculation {(2^40)TiB / (2^30)GiB = 1024 GB} 1024 := 1 kibibyte`
+3. You buy an HDD advertised with 1TB. How much usable space will the Windows operating system report you and why?  
+`953 GB`  
+`1024 GB would be usable in theory. 1 TB on "Base 10"  equals 1'099'511'627'776 (=:2^40) bits on "Base 2". The PC shows usable space in gigabyte. So we make the calculation {(2^40)TiB / (2^30)GiB = 1024 GB} 1024 := 1 kibibyte`  
 
 <br>
 
@@ -154,17 +152,34 @@ Johnny Simulator
 
 [Youtoube tutorial](https://www.youtube.com/watch?v=CcZbqOHWyQY)
 
-> Creating a sequence in the Johnny simulator that takes 2 numbers from any 2 registers, multiplies them and writes the result to another register.
+**Legend**
+```
+Asm := Assembly
+Type of language - Replace micro commands with macro commands  
+
+Opnd := Operand
+Tells Johnny on what adress he should operate
+``` 
+
+> + Creating a sequence in the Johnny simulator that takes 2 numbers from any 2 registers, multiplies them and writes the result to another register.
+```
++ Open RAM
++ Use the file *"multiplikation.ram"*
++ Make sure there are no errors
++ Click through *"one makro step"* until the numbers 3 and 5 multiplied and the accumulator shows the result 15
+```
+**The Ram on your Johnny Simulator should look like this:**
+
 
 *Optional:*
-> Creating a macro-command to multiply (like ADD)  
-> Creating a sequence to calculate the KGV or GGT  
-> Making a division or modulo sequence
+> + Creating a macro-command to multiply (like ADD)  
+> + Creating a sequence to calculate the KGV or GGT  
+> + Making a division or modulo sequence
 
 <br>
 
 Boolean algebra
 =================
 
-> Documentation about `transistors` and `logic gates`
+> + Documentation about `transistors` and `logic gates`
 
