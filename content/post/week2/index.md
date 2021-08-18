@@ -37,3 +37,25 @@ The studyprogramm I'm enrolled in, requiers its students to prepare themselves i
 
 08/18/21 - 08/20/21
 ======================
+
+I started this week with my first day @FFHS. The location is incredible. In general I'm pleasantly surprised. Foremost i learned how important it is to prepare myself in advance. Studying at home became my top priority. The classroom events exist mainly to clarify uncertainties on site. I appreciate the well build structure of the modules and how they focus on the essential contents. Tuesday I spent with the post-processing of mondays modules. *For every module there are three phases:*  
+
+```
+Pre-processing
+Classroom event
+Post-processing
+```
+
+*Each phase is crucial for fully understanding the modules:*  
+
+```
+Project management
+Java Fundamentals
+Discrete Mathematics
+Web Fundamentals
+Fundamentals of Computer Engineering
+Linear Algebra
+```
+
+
+ Reading about transistors and logic gates
