@@ -194,6 +194,17 @@ Tells Johnny on what adress he should operate
 
 Boolean algebra
 =================
+**How Logic Gates Work in Digital Electronics**  
+To control the flow in a computer we use a gate and achieve an end goal. This flow is an electric current operating on a circuit. In the digital language we name these gates transistors. A transistor is either on or off. 
+```
+on  := electric current flows
+off := electric current does not flow
+```
+Chaining tranistors together leads to a `logic gate`, which enables adding, subracting, multiplyin and dividing by binary numbers `(1s & 0s)`.
+> **Input:**  Voltage
+> **Output:** decides wether it switches on or stays switched off
+
+
 
 > + Documentation about `transistors` and `logic gates`
 
