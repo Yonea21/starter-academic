@@ -232,5 +232,34 @@ Each logic gate has its specific way of coping. Disregarding therof, the in- and
 Manipulating program CookieClicker with CheatEngine
 ===================================================
 
-To work trough only the tutorial from Cheat Engine, is pretty hard. I get stuck really easily. Gladly Jim is there to help me. But right now i got stuck in Step 8. 
++ Download Cheatengine
++ Finish tutorial until step 6
++ Download Cookie Clicker from MS store
++ Open CookieClicer.exe on processes from cheatengine
++ Do as in the tutorial to find your value
++ And then just manipulate the value on cheatengine by overwriting it
++ enjoy the ridiculous score on your cookie
+
+*bild cookie clicker*
+
+<br>
+
+More on HDDs and SSDs
+=========================
+There are different types of HDDs like `consumer-grade`, `enterprise-grade`, `NAS-grade` and `server-grade`.  
+
+> What are the differences between those grades?
++ Consumer-grade HDDs are more affordable and therefor easy-consumer-friendly.  
++ If a company risks coming to a stop if the server or dataase goes down, due to a drive failure, an enterpise-grade is considerable.  
++ A NAS-grade HDD is compareable to a private Cloud in an office. It's connected to a network, cheaper and enables comprehensive control.  
++ Server-grade HDDs have higher standards and requirements compared to regulare home usage HDDs.  
+
+> Are there grades/tiers for SSDs?  
++ Yes there are so called tiers which stagger the SDDs in kategories as price and performance.  
+
+> My whishlist  
++ [For building my own PC i would use these](https://www.digitec.ch/de/shopList/show/7D11285C0C277E21F637857D8BE90DEF)
+
+
+
 
