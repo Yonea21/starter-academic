@@ -188,6 +188,7 @@ Tells Johnny on what adress he should operate
 
 **The Ram on your Johnny Simulator should look like this:**
 
+> Make sure it's in the right order
 ![RAM on Johnny Simulator](Jonny.jpg "<b>RAM on Johnny Simulator</b> (Screenshot)")
 > scroll down
 ![RAM on Johnny Simulator](Jonny2.jpg "<b>RAM on Johnny Simulator</b> (Screenshot)")
