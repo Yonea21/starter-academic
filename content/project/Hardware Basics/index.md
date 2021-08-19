@@ -185,7 +185,7 @@ Tells Johnny on what adress he should operate
 
 **The Ram on your Johnny Simulator should look like this:**
 
-*(Include Screenshots)*
+![RAM on Johnny Simulator](jonny.jpg "<b>RAM on Johnny Simulator</b> (Screenshot)")
 
 <br>
 
