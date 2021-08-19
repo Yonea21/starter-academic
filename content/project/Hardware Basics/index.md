@@ -240,6 +240,8 @@ Manipulating program CookieClicker with CheatEngine
 + And then just manipulate the value on cheatengine by overwriting it
 + enjoy the ridiculous score on your cookie
 
+![Cookies](cookie.jpg "<b>Cookies</b> (Unsplash: The Creative Exchange)")
+
 *bild cookie clicker*
 
 <br>
@@ -299,4 +301,33 @@ Desired interfaces
 | HDMI        | 64-Bit      64-Bit  |    x  |   x        |     x |   x   |     x      |   x     |     x   |
 | VGA        | 64-Bit      64-Bit  |    x  |   x        |     x |   x   |   x        |    x    |   x      |
 
+<br>
 
+Periphery
+==========
+Those are the discontinued displays:  
++ `CRT := Cathode ray tubes`  
++ `Plasma`  
+
+Those are the most common Displays:  
++ `LCD := Liquid Crystal Display`  
++ `OLED := Organic Light Emitting Diode` 
+
+> How much bandwidth is needed to stream a typical 2 hour Netflix 1080p movie (~6 GB)?
++ 48 Gbit/s
+
+> What bandwidth (upload/download) do I have at home and on my mobile phone?
++ 
+
+<br>
+
+Setting up VR headset
+======================
+
+<br>
+
+Sound
+======
+> What interfaces are used to play surround sound?
+
+> What are common codecs?
