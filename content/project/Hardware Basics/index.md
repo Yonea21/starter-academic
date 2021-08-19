@@ -260,6 +260,43 @@ There are different types of HDDs like `consumer-grade`, `enterprise-grade`, `NA
 > My whishlist  
 + [For building my own PC i would use these](https://www.digitec.ch/de/shopList/show/7D11285C0C277E21F637857D8BE90DEF)
 
+<br>
 
+GPU in depth
+=============
++ Latest GPU from NVIDIA has 10'496 cores and 24 GB of GDDR6X memory.  
++ Two major GPU manufacturers: AMD & NVIDIA  
++ ASIC := Application-specific integrated circuit := Processor designed to do one thing; ASIC is high in efficency but low when it comes to being flexible.
++ CPU := Central Processing Unit on the other hand, ist low in efficency but high in flexibility.
++ GPU := Graphics Processing Unit multiplicates huge amounts of matrix (3D) in parallel.
+
+<br>
+
+Desired interfaces
+==================
+> What are my desired interfaces in a consumer PC or laptop?
++ [Please check my whishlist](https://www.digitec.ch/de/shopList/show/FB59BE98A43084CCBFD002196628C81D)
++ Ethernet for fast internet connection
++ Several USB C - USB A for connecting peripheral devices
++ Several Micro USB - USB A for connecting peripheral devices
++ HDMI for video and sound
+
+> What would I change for in a server?
++ 
++ 
++ 
++ 
+
+<br>
+
+**Table**
+
+| Name         | Use Case         | Release | Bandwidth | Wires | Clock | Signaltype | Distance | Power |
+| ------------- |:-------------:| ----------:|---------:|-------:|-----:|------------:|--------:|-------:|
+| USB 1.0       | Connects peripherals| 1996 | 1.5 Mbit/s | 4     | 1kHz  |   Digital   | 5m      | 2.5 Watt |
+| Micro USB     | Power supply and data transmission  | 2009 |   x        |  x   |  x    | x           |  x      |  x       |
+| Ethernet       | 64-Bit      64-Bit  | x     | x         |   x   |  x    |     x     |  x      |     x   |
+| HDMI        | 64-Bit      64-Bit  |    x  |   x        |     x |   x   |     x      |   x     |     x   |
+| VGA        | 64-Bit      64-Bit  |    x  |   x        |     x |   x   |   x        |    x    |   x      |
 
 
