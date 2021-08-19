@@ -327,11 +327,17 @@ Desired interfaces
 
 | Name         | Use Case         | Release | Bandwidth | Wires | Clock | Signaltype | Distance | Power |
 | ------------- |:-------------:| ----------:|---------:|-------:|-----:|------------:|--------:|-------:|
-| USB 1.0       | Connects peripherals| 1996 | 1.5 Mbit/s | 4     | 1kHz  |   Digital   | 5m      | 2.5 Watt |
-| Micro USB     | Power supply and data transmission  | 2009 |   x        |  x   |  x    | x           |  x      |  x       |
-| Ethernet       | 64-Bit      64-Bit  | x     | x         |   x   |  x    |     x     |  x      |     x   |
-| HDMI        | 64-Bit      64-Bit  |    x  |   x        |     x |   x   |     x      |   x     |     x   |
-| VGA        | 64-Bit      64-Bit  |    x  |   x        |     x |   x   |   x        |    x    |   x      |
+| RCA       | Video, Audio       | 1940      | 10 MHz   | 1     | 768 kHz  |   Analog   | 3m           |  x         |
+| VGA     | Video Trans.        | 1987 | 3 MBit/s  |  14   |  60 MHz    | Digital          |  4m       |  x         |
+| DVI       | Video Trans.      | 1999 | 7.44 GBit/s  |  29   |  165 MHz    |     Digital     |  4.5m  |     x      |
+| PS/2        | Periphery       | 1990 |   350 MHz     |   4 |   16 kHz   |     Digital      |   5m    |     x      | 
+| RJ45       | Network          | 1970  |   10 GBit/s   |   8 |   160 MHz   |   Digital    |    3m     |   x        |
+| USB-1.0      | Power, Data Trans.  | 1996  |   1.5 MBit/s  | 4 |   1 kHz   |   Digital   |    5m     |   2.5 Watt |
+| USB-2.0       | Power, Data Trans.  | 2000  |   480 MBit/s |  4 |   24 kHz   |   Digital    |    5m  |   x        |
+| USB-3.0      | Power, Data Trans.  | 2008 |   5 GBit/s |     4 |   33 kHz   |   Digital  |    5m     |   x        |
+| USB-C       | Power, Video, Audio, Network | 2015 |   40 GBit/s | 4 |   240 Hz  | Digital |    2m    |   x        |
+| DP       | Video, Audio   |    2006  |   77 GBit/s |     20 |   225 MHz   |   Digital   |    1.8m    |   x        | 
+| HDMI       | Video und Audio|    2002  |   43 Gbit/s   |   19 |   150 MHz   |   Digital  |    25m    |   x        |
 
 <br>
 
