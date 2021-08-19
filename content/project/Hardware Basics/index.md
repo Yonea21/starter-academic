@@ -232,4 +232,5 @@ Each logic gate has its specific way of coping. Disregarding therof, the in- and
 Manipulating program CookieClicker with CheatEngine
 ===================================================
 
+To work trough only the tutorial from Cheat Engine, is pretty hard. I get stuck really easily. Gladly Jim is there to help me. But right now i got stuck in Step 8. 
 
