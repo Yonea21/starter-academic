@@ -363,7 +363,7 @@ Those are the most common Displays:
 
 Setting up VR headset
 ======================
-
+Ask a coach to continue with the task
 <br>
 
 Sound
