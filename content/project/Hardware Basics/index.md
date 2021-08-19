@@ -160,6 +160,8 @@ Binary number system
 
 `:= Yonea`
 
+![Matrix](matrix.jpg "<b>Matrix</b> (Unsplash: Sebastian Mark)")
+
 <br>
 
 Johnny Simulator
