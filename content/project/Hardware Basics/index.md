@@ -239,25 +239,25 @@ AND; OR; NOT; XOR; NAND; NOR
 ```
 Each logic gate has its specific way of coping. Disregarding therof, the in- and outputs will break everything down to two binary numbers. 
 
-**AND:**
+**AND:**  
 requiers two inputs for there to be an output  
 
-**OR:**
+**OR:**  
 requiers one input for there to be an output  
 
-**NOT:**
+**NOT:**  
 requiers one input; always produces an opposite output  
 
-**XOR:**
+**XOR:**  
 requiers one diffrent input; either/or situation  
 
-**XNOR:**
+**XNOR:**  
 requiers two same inputs; opposite of `XOR`  
 
-**NAND:**
+**NAND:**  
 opposite output of `AND`; `NOT` logic applied to `AND`  
 
-**NOR:**
+**NOR:**  
 opposite output of `OR`; `NOT` logic applied to `OR`  
 
 
