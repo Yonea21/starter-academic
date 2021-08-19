@@ -88,6 +88,18 @@ url_video: ""
 
 <br>
 
+Hypothetical machine
+=====================
+
+![Hypothetical machine](hypotet.jpg "<b>Hypothetical machine</b> (Unsplash: Christian Wiediger)")
+
+Here's a list of parts i would choose to build my own pc:
+[What do you think?](https://www.digitec.ch/de/shopList/show/3D5728899D9C9AB362CA0C9DD0376E73)
+
+You may ask yourself why i chose those parts. Let me explain.
+
+<br>
+
 CPU - in - depth
 =================
 
