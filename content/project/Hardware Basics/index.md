@@ -254,8 +254,6 @@ Manipulating program CookieClicker with CheatEngine
 
 ![Cookies](cookie.jpg "<b>Cookies</b> (Unsplash: The Creative Exchange)")
 
-*bild cookie clicker*
-
 <br>
 
 More on HDDs and SSDs
