@@ -189,6 +189,7 @@ Tells Johnny on what adress he should operate
 **The Ram on your Johnny Simulator should look like this:**
 
 ![RAM on Johnny Simulator](Jonny.jpg "<b>RAM on Johnny Simulator</b> (Screenshot)")
+> scroll down
 ![RAM on Johnny Simulator](Jonny2.jpg "<b>RAM on Johnny Simulator</b> (Screenshot)")
 
 <br>
@@ -226,6 +227,8 @@ Some decades ago, a collection of transistors was put together and led to:
 Integrated circuit := IC
 ```
 Nowdays we speak about very large scale integrated ICs `(:=VLSI)`. Those contain up to billions of transistors into one tiny package.
+
+![Microchip](microchip.jpg "<b>Microchip</b> (Unsplash: Laura Ockel)")
 
 > Logic Gates:
 ```
