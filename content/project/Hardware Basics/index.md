@@ -97,6 +97,9 @@ Here's a list of parts i would choose to build my own pc:
 [What do you think?](https://www.digitec.ch/de/shopList/show/3D5728899D9C9AB362CA0C9DD0376E73)
 
 You may ask yourself why i chose those parts. Let me explain.
+A way to choose computer parts in an online shop or anything actually, is to use filters and selections. For example I sort the Items based on ratings and reviews of buyers. Then I compare popularity, price and functionality. Is it a good investment? You want to make sure that it is. The most important thing to consider is if the parts are compatible. If you choose a product, mostly the site recommends compatible ones. If not, check the interfaces for compatibility.
+
+There's also an intresting [Website](https://www.logicalincrements.com/), which helps you compare components.
 
 <br>
 
