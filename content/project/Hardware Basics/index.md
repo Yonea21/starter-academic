@@ -509,7 +509,19 @@ Are you a fan of airflow?
 
 > What metric should be high for a fan on a heatsink? ​
 
++ 
+
 > What metric should be high for a case fan?​
 
++ 
+
 > Why do servers often use small fans instead of bigger ones?
+
++ 
+
+<br>
+
+I'm glad that you've made it to the end of this blogpage. Hereby this module is finished. I got the chance to summarize and deepen my knowledge of what i learned in the first few weeks @Amanox in a powerpoint presentation. Feel free to dive in.
+
+![Goodbye](thumbnail.jpg "<b>Goodbye</b> (My Animal Crossing Thumbnail)")
 
