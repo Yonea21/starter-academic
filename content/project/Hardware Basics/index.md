@@ -420,7 +420,7 @@ In matter of fact, when wearing glasses or lenses the eyes get used to the viewi
 
 For a captivating virtual reality, 4K resolution (3840 x 2160) or higher is required. You also want to have a 1080 GPU.
 
-![VR](vr.jpg "<b>VRs</b> (Unsplash: amnx)")
+![VR](vr.jpg "<b>VR</b> (Unsplash: amnx)")
 
 
 <br>
@@ -428,6 +428,21 @@ For a captivating virtual reality, 4K resolution (3840 x 2160) or higher is requ
 Sound
 ======
 > What interfaces are used to play surround sound?
+**Digital interfaces:**
++ S/PDIF (Sony/Philips Digital Interface Format)
++ AES/EBU (Audio Engineering Society / European Brodcasting Union)
++ MADI (Multi Channel Audio Digital Interface)
++ ADAT (Alesis Digital Audio Tape)
++ TDIF (Tascam Digital Interface)
++ Wordclock-Interfaces
++ MIDI (Musical Instrument Digital Interface)  
+
+**Analogue interfaces**
++ Line-In/Outs
++ Mic-Ins
++ Instrument-Ins (Hi-Z)
++ Phono-Ins
++ Phones-Outs
 
 > List of common codecs with corresponding program implementations
 + MPEG-1 layer ||| (MP3) LAME (Encoder) MP3-Codec
@@ -437,4 +452,4 @@ Sound
 + Windows Media Audio
 + FLAC
 
-
+![Output](output.jpg "<b>Output</b> (Unsplash: Juan Di Nella)")
