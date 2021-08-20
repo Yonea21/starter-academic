@@ -70,8 +70,8 @@ i5-7300U 2.60 GHz
 + What chipset is on the motherboard? Could there be more options?  
 
 ```
-Windows 10 Pro Creators Update 64 Bit  
-For this product there's just 64 Bit available
+Soc (:= System-on-a-Chip)
+Southbridge, Northbridge
 ```
 + How many gigabytes of RAM are in the PC you’re using?  
 
