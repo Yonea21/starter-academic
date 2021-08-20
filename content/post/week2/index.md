@@ -18,7 +18,7 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
-> On this Blogpage I document weekly updates regarding my work progress. Mostly i write about things that i learned, where I failed or succeeded and reflect my overall experiences.
+> On this Blogpage I document weekly updates regarding my work progress. Mostly i write about things that I learned, where I failed or succeeded and reflect my overall experiences.
 
 I hope you enjoy reading my journals.
 
@@ -57,5 +57,13 @@ Fundamentals of Computer Engineering
 Linear Algebra
 ```
 
+![To study](study.jpg "<b>To study</b> (Unsplash: Gery Wibowo)")
 
-Continuing Jim's module I processed the tutorial for the Progra Reading about transistors and logic gates
+<br>
+
+Working through Jim's module was very usefull. In school we also treat hardware basics. That's how I can adapt the things I learned in practice directly on to the tasks in school. The only thing left to do is to prepare my powerpoint presentation. Fifteen minutes I'll talk about more than just basic hardware knowledge. 
+
+<br>
+
+08/25/21 - 08/27/21
+====================
