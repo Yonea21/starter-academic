@@ -361,6 +361,18 @@ Those are the most common Displays:
 
 **If you want to know something about monitors, please check the following summary:**  
 
+> The performance of a LCD monitor depends on its panel type:
++ **TN (Twisted Nematic):** low manufacturing cots; most common type  
++ **VA (Vertical Alignment):** mostly curve; improve in viewing angles and colour reproduction  
++ **IPS (In-Plane Switching), PLS (Plane to Line Switching) and AHVA (Advanced Hyper-Viewing Angle):** superior colour accuracy; improve in gamma consistancy (dark shades)  
+
+> Monitors brightness is measured in candela. 300cd/m^2 is standard.
+
+> Response Time (grey to grey/gtg). Below 4ms is standard, the lower the better.
+
+> Refresh rate depends on response time. 
+
+> Resolution:
 | Resoluton Type | Comon Name         | Aspect Ratio | Pixel Size |
 | ------------- |:-------------:| -------------------:|---------:|
 | SD (Standard Definition) | 480p           | 04:03    | 640 x 480 |
@@ -370,6 +382,8 @@ Those are the most common Displays:
 | 2K video   | 1080p   | 01:01.8  | 2048 x 1080 |
 | 4K video or UHD (Ultra HD) | 2160p | 01:01.9 | 3840 x 2160 |
 | 8K video or FUHD (Full Ultra HD) | 4320p | 16:9 | 7680 x 4320 |
+
+> Aspect ratio is mostly 16:9 or 16:10. Wide screens are 21:9.  
 
 <br>
 
