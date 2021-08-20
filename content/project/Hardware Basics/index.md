@@ -61,30 +61,30 @@ url_video: ""
 
 > Advanced questions: (My device is a Surface Book 2)
 
- 1.	How fast (in GHz) is the CPU you are using right now?  
-   i5-7300U 2.60 GHz
++ How fast (in GHz) is the CPU you are using right now?  
+i5-7300U 2.60 GHz
 
- 2.   What chipset is on the motherboard? Could there be more options?  
-   Windows 10 Pro Creators Update 64 Bit  
-   For this product there's just 64 Bit available 
++ What chipset is on the motherboard? Could there be more options?  
+Windows 10 Pro Creators Update 64 Bit  
+For this product there's just 64 Bit available 
 
- 3.	How many gigabytes of RAM are in the PC you’re using?  
-   8.00 GB  Ram
++ How many gigabytes of RAM are in the PC you’re using?  
+8.00 GB  Ram
 
- 4.	What is/are the storage medium/media in your PC?  
-   PCIe (:= Peripheral Component Interconnect Express)  
-   Solid-State-Laufwerk (SSD) 256 GB, local hard disk C:
++	What is/are the storage medium/media in your PC?  
+PCIe (:= Peripheral Component Interconnect Express)  
+Solid-State-Laufwerk (SSD) 256 GB, local hard disk C:
 
- 5.	Where is the PSU in your PC? What about a laptop?  
-   PC trhough motherboard  
-   Laptop externally
++ Where is the PSU in your PC? What about a laptop?  
+PC trhough motherboard  
+Laptop externally
 
- 6.	Do you have a GPU?  
-   HD-Grafik 620-GPU
++ Do you have a GPU?  
+HD-Grafik 620-GPU
 
- 7.   How does the cooling work in your device? What about a smartphone?  
-   My device: (Air) highly developed air conduction system inside; cooling is provided by a fan similar in design to an aircraft turbine  
-   Smartphone: (Heatpipe) small pipe that transmits heat to the outside
++ How does the cooling work in your device? What about a smartphone?  
+My device: (Air) highly developed air conduction system inside; cooling is provided by a fan similar in design to an aircraft turbine  
+Smartphone: (Heatpipe) small pipe that transmits heat to the outside
 
 <br>
 
@@ -99,7 +99,7 @@ Here's a list of parts i would choose to build my own pc:
 You may ask yourself why i chose those parts. Let me explain.
 A way to choose computer parts in an online shop or anything actually, is to use filters and selections. For example I sort the Items based on ratings and reviews of buyers. Then I compare popularity, price and functionality. Is it a good investment? You want to make sure that it is. The most important thing to consider is if the parts are compatible. If you choose a product, mostly the site recommends compatible ones. If not, check the interfaces for compatibility.
 
-There's also an intresting [Website](https://www.logicalincrements.com/), which helps you compare components.
+There's also an intresting [website](https://www.logicalincrements.com/), which helps you compare components.
 
 <br>
 
@@ -117,8 +117,6 @@ CPU - in - depth
 | 16 MB Cache   | 64 MB Cache   | 12 MB Cache  |
 
 > I would say CPU 1 will perform best because it has the best base clock and boost clock speed. Although CPU 2 is a good competator as it improves in high core and cache.
-
-A chip is made of a very simple raw material. Sand. 
 
 <br>
 
@@ -201,15 +199,15 @@ Tells Johnny on what adress he should operate
 > + Creating a macro-command to multiply (like ADD) 
 
 + Activate the *"Ctrl"* in the navigation bar
-+ dfsadf
++ X
 
 > + Creating a sequence to calculate the KGV or GGT  
 
-+ dfsadf
++ X
 
 > + Making a division or modulo sequence
 
-+ dfsadf
++ X
 
 <br>
 
@@ -260,9 +258,6 @@ opposite output of `AND`; `NOT` logic applied to `AND`
 **NOR:**  
 opposite output of `OR`; `NOT` logic applied to `OR`  
 
-
-> + Documentation about `transistors` and `logic gates`
-
 <br>
 
 Manipulating program CookieClicker with CheatEngine
@@ -294,7 +289,7 @@ There are different types of HDDs like `consumer-grade`, `enterprise-grade`, `NA
 + Yes there are so called tiers which stagger the SDDs in kategories as price and performance.  
 
 > My whishlist  
-+ [For building my own PC i would use these](https://www.digitec.ch/de/shopList/show/7D11285C0C277E21F637857D8BE90DEF)
++ [For building my own PC I would use these](https://www.digitec.ch/de/shopList/show/7D11285C0C277E21F637857D8BE90DEF)
 
 <br>
 
@@ -318,10 +313,10 @@ Desired interfaces
 + HDMI for video and sound
 
 > What would I change for in a server?
-+ 
-+ 
-+ 
-+ 
++ X
++ X
++ X
++ X
 
 <br>
 
@@ -357,7 +352,7 @@ Those are the most common Displays:
 + 48 Gbit/s
 
 > What bandwidth (upload/download) do I have at home and on my mobile phone?
-+ 
++ X
 
 <br>
 
@@ -404,7 +399,6 @@ Those are the most common Displays:
 
 ![LCD](lcd.jpg "<b>LCD</b> (Unsplash: AbsolutVision)")
 
-
 <br>
 
 Setting up VR headset
@@ -421,7 +415,6 @@ In matter of fact, when wearing glasses or lenses the eyes get used to the viewi
 For a captivating virtual reality, 4K resolution (3840 x 2160) or higher is required. You also want to have a 1080 GPU.
 
 ![VR](vr.jpg "<b>VR</b> (Unsplash: amnx)")
-
 
 <br>
 
@@ -509,15 +502,15 @@ Are you a fan of airflow?
 
 > What metric should be high for a fan on a heatsink? ​
 
-+ 
++ X
 
 > What metric should be high for a case fan?​
 
-+ 
++ X
 
 > Why do servers often use small fans instead of bigger ones?
 
-+ 
++ X
 
 <br>
 
