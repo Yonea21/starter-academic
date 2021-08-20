@@ -62,29 +62,29 @@ url_video: ""
 > Advanced questions: (My device is a Surface Book 2)
 
 + How fast (in GHz) is the CPU you are using right now?  
-i5-7300U 2.60 GHz
+i5-7300U 2.60 GHz  
 
 + What chipset is on the motherboard? Could there be more options?  
 Windows 10 Pro Creators Update 64 Bit  
-For this product there's just 64 Bit available 
+For this product there's just 64 Bit available  
 
 + How many gigabytes of RAM are in the PC you’re using?  
-8.00 GB  Ram
+8.00 GB  Ram  
 
 +	What is/are the storage medium/media in your PC?  
 PCIe (:= Peripheral Component Interconnect Express)  
-Solid-State-Laufwerk (SSD) 256 GB, local hard disk C:
+Solid-State-Laufwerk (SSD) 256 GB, local hard disk C:  
 
 + Where is the PSU in your PC? What about a laptop?  
 PC trhough motherboard  
-Laptop externally
+Laptop externally  
 
 + Do you have a GPU?  
-HD-Grafik 620-GPU
+HD-Grafik 620-GPU  
 
 + How does the cooling work in your device? What about a smartphone?  
 My device: (Air) highly developed air conduction system inside; cooling is provided by a fan similar in design to an aircraft turbine  
-Smartphone: (Heatpipe) small pipe that transmits heat to the outside
+Smartphone: (Heatpipe) small pipe that transmits heat to the outside  
 
 <br>
 
