@@ -393,8 +393,8 @@ Those are the most common Displays:
 
 > Why did manufacturers ditch the CRT and plasma technologies?  
 
-+ CRT technologies were replaced with LCDs. Its life depended on economical circumstances. While it started to get replaced in developed markets such as Japan and Europe, they got popular in developing markets like Latin America. With the years it also became outdated there.
-The only place I see and buy plasma technologies is in the Sims. But in real life, there only was a short living phase for the plasma TVs. It has had its peack because of the flat design after the chunky CRT TV. But in concurrence to the upcoming LCD technologie they lacked in brightness. LCD instantly became the perfect substitute.
++ CRT technologies were replaced with LCDs. Its life depended on economical circumstances. While it started to get replaced in developed markets such as Japan and Europe, they got popular in developing markets like Latin America. With the years it also became outdated there.  
++ The only place I see and buy plasma technologies is in the Sims. But in real life, there only was a short living phase for the plasma TVs. It has had its peack because of the flat design after the chunky CRT TV. But in concurrence to the upcoming LCD technologie they lacked in brightness. LCD instantly became the perfect substitute.
 
 ![CRT](crt.jpg "<b>CRT</b> (Unsplash: Fran Jacquier)")
 
@@ -444,6 +444,8 @@ Sound
 + Instrument-Ins (Hi-Z)
 + Phono-Ins
 + Phones-Outs
+
+<br>
 
 > List of common codecs with corresponding program implementations
 + MPEG-1 layer ||| (MP3) LAME (Encoder) MP3-Codec
