@@ -385,6 +385,22 @@ Those are the most common Displays:
 
 > Aspect ratio is mostly 16:9 or 16:10. Wide screens are 21:9.  
 
+
+**Pros and Cons of display technologies**
+
+> Why did manufacturers ditch the CRT and plasma technologies?
+CRT technologies were replaced with LCDs. Its life depended on economical circumstances. While it started to get replaced in developed markets such as Japan and Europe, they got popular in developing markets like Latin America. With the years it also became outdated there.
+The only place I see and buy plasma technologies is in the Sims. But in real life, there only was a short living phase for the plasma TVs. It has had its peack because of the flat design after the chunky CRT TV. But in concurrence to the upcoming LCD technologie they lacked in brightness. LCD instantly became the perfect substitute.
+
+![CRT](crt.jpg "<b>CRT</b> (Unsplash: Fran Jacquier)")
+
+> What are the pros and cons of LCD and OLED compared to eachother?
++ LCD displays are cheaper and use less energy
++ OLED screens improve in sharper picture, response and contrast 
+
+![LCD](lcd.jpg "<b>LCD</b> (Unsplash: AbsolutVision)")
+
+
 <br>
 
 Setting up VR headset
@@ -409,4 +425,12 @@ Sound
 ======
 > What interfaces are used to play surround sound?
 
-> What are common codecs?
+> List of common codecs with corresponding program implementations
++ MPEG-1 layer ||| (MP3) LAME (Encoder) MP3-Codec
++ MPEG-1 Layer ||| Pro (MP3Pro)
++ MPEG-4 Part 3 (AAC) Pystel AAC
++ RealAudio
++ Windows Media Audio
++ FLAC
+
+
