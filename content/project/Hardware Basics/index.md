@@ -359,6 +359,18 @@ Those are the most common Displays:
 > What bandwidth (upload/download) do I have at home and on my mobile phone?
 + 
 
+**If you want to know something about monitors, please check the following summary:**  
+
+| Resoluton Type | Comon Name         | Aspect Ratio | Pixel Size |
+| ------------- |:-------------:| -------------------:|---------:|
+| SD (Standard Definition) | 480p           | 04:03    | 640 x 480 |
+| HD (High Definition) | 720p        | 16:09 | 1280 x 720 |
+| FHD (Full HD) | 1080p | 16:09 | 1920 x 1080 |
+| QHD (Quad HD)    | 1440p    | 16:09   | 2560 x 1440 |
+| 2K video   | 1080p   | 01:01.8  | 2048 x 1080 |
+| 4K video or UHD (Ultra HD) | 2160p | 01:01.9 | 3840 x 2160 |
+| 8K video or FUHD (Full Ultra HD) | 4320p | 16:9 | 7680 x 4320 |
+
 <br>
 
 Setting up VR headset
