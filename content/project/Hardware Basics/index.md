@@ -428,6 +428,7 @@ For a captivating virtual reality, 4K resolution (3840 x 2160) or higher is requ
 Sound
 ======
 > What interfaces are used to play surround sound?
+
 **Digital interfaces:**
 + S/PDIF (Sony/Philips Digital Interface Format)
 + AES/EBU (Audio Engineering Society / European Brodcasting Union)
@@ -437,7 +438,7 @@ Sound
 + Wordclock-Interfaces
 + MIDI (Musical Instrument Digital Interface)  
 
-**Analogue interfaces**
+**Analogue interfaces:**
 + Line-In/Outs
 + Mic-Ins
 + Instrument-Ins (Hi-Z)
