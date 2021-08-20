@@ -24,6 +24,8 @@ Xavier and I have been given the opportunity to study computer science at FFHS w
 
 We were invited to eat lunch around the corner at "La Carbonara" and got to know eachother even better.
 
+![The coaches, Xavier and I](lacarbonara.jpg "<b>The coaches, Xavier and I</b> (La Carbonara)")
+
 Afterwards, we were instructed by Fabian on how to set up the PC and install some first programs via PowerShell and chocolatey. It had already been announced that the afternoon agenda would be a surprise. We then set off with the rides to the city centre. 
 
 The joy was big when we stood in front of the Adventure Room in Bern. In the basement we slipped into the role of Indiana Jones and searched for an archaelogist friend who had disappeared in search of the Holy Grail. The two teams, divided into Enterprise Cloud and Public Cloud, while competing against each other in a duel. There was a glorious victory for the Public Cloud team, which beat their opponents hands down with a score of 2:0. After a fotoshoot the first work day ended.
