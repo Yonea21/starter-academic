@@ -389,7 +389,20 @@ Those are the most common Displays:
 
 Setting up VR headset
 ======================
+
 Ask a coach to continue with the task
+
+> What do I think are problems when placing screens this close to our eyes?  
+
+In matter of fact, when wearing glasses or lenses the eyes get used to the viewing support. The natural outcome is the deterioration of your view. Wearing a VR headset regurarly, for longer periods of time creates a similar outcome.  
+
+> What specifications should the display fullfill to enable a good experience?  
+
+For a captivating virtual reality, 4K resolution (3840 x 2160) or higher is required. You also want to have a 1080 GPU.
+
+![VR](vr.jpg "<b>VRs</b> (Unsplash: amnx)")
+
+
 <br>
 
 Sound
