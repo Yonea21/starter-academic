@@ -394,7 +394,7 @@ Those are the most common Displays:
 > Why did manufacturers ditch the CRT and plasma technologies?  
 
 + CRT technologies were replaced with LCDs. Its life depended on economical circumstances. While it started to get replaced in developed markets such as Japan and Europe, they got popular in developing markets like Latin America. With the years it also became outdated there.  
-+ The only place I see and buy plasma technologies is in the Sims. But in real life, there only was a short living phase for the plasma TVs. It has had its peack because of the flat design after the chunky CRT TV. But in concurrence to the upcoming LCD technologie they lacked in brightness. LCD instantly became the perfect substitute.
++ The only place I see and buy plasma technologies is in the Sims. But in real life, there only was a short living phase for the plasma TVs. It has had its peack because of the flat design after the chunky CRT TV. But in concurrence to the upcoming LCD technology they lacked in brightness. LCD instantly became the perfect substitute.
 
 ![CRT](crt.jpg "<b>CRT</b> (Unsplash: Fran Jacquier)")
 
@@ -456,3 +456,60 @@ Sound
 + FLAC
 
 ![Output](output.jpg "<b>Output</b> (Unsplash: Juan Di Nella)")
+
+<br>
+
+Office Workplace
+================
+> List of IT-components needed to setup an office workplace
+
+**Standard:**
++ Display
++ Keyboard
++ Mouse
++ PC/Laptop
++ Headset
++ Camera
+
+**Optional**
++ Docking station
++ Speakers
++ Second Display
++ Graphic tablet
+
+<br>
+
+> How should the PC perform?  
+
++ It should have a strong CPU (i5 and better) as well as clock speed.
++ Preferably 8 or 16 GB RAM
++ 1 TB HDD or ~256 GB SSD
+
+> A laptop or a workstation?​  
+
++ A Laptop connected to a docking station, allows you to perform a mobile worklife.
+
+> What interfaces do you need?
+
++ USB-C
++ USB-3.0
++ HDMI
++ RJ45
+
+> Is an upgrade possible down the road?
+
++ An upgrade is always possible. You can upgrade to a keyboard with LED lights or get the latest gaming monitor. Get a mousepad and the noise cancelling headset. With time technology improves and gets more and more affordable for consumers. 
+
+![Workplace](workplace.jpg "<b>Workplace</b> (Unsplash: Howard Bouchevereau)")
+
+<br>
+
+Are you a fan of airflow?
+==========================
+
+> What metric should be high for a fan on a heatsink? ​
+
+> What metric should be high for a case fan?​
+
+> Why do servers often use small fans instead of bigger ones?
+
