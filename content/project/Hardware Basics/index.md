@@ -359,6 +359,8 @@ Those are the most common Displays:
 > What bandwidth (upload/download) do I have at home and on my mobile phone?
 + 
 
+<br>
+
 **If you want to know something about monitors, please check the following summary:**  
 
 > The performance of a LCD monitor depends on its panel type:
@@ -385,8 +387,9 @@ Those are the most common Displays:
 
 > Aspect ratio is mostly 16:9 or 16:10. Wide screens are 21:9.  
 
+<br>
 
-**Pros and Cons of display technologies**
+**Pros and Cons of display technologies:**
 
 > Why did manufacturers ditch the CRT and plasma technologies?
 CRT technologies were replaced with LCDs. Its life depended on economical circumstances. While it started to get replaced in developed markets such as Japan and Europe, they got popular in developing markets like Latin America. With the years it also became outdated there.
@@ -394,7 +397,7 @@ The only place I see and buy plasma technologies is in the Sims. But in real lif
 
 ![CRT](crt.jpg "<b>CRT</b> (Unsplash: Fran Jacquier)")
 
-> What are the pros and cons of LCD and OLED compared to eachother?
+> What are the pros and cons of LCD and OLED compared to eachother?  
 + LCD displays are cheaper and use less energy
 + OLED screens improve in sharper picture, response and contrast 
 
