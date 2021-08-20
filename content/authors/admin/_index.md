@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Computer Science Student
+avatar_filename: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,6 +22,8 @@ interests:
 - Studying Computer Science
 - Developing trainee diary
 - Improving skills
+
+# Languages to show in About widget:
 languages:
 - German
 - Spanish
