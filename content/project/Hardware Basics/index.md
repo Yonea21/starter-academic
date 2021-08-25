@@ -507,6 +507,8 @@ Office Workplace
 + Second Display
 + Graphic tablet
 
+![Workplace](workplace.jpg "<b>Workplace</b> (Unsplash: Roberto Nickson)")
+
 <br>
 
 > How should the PC perform?  
@@ -529,8 +531,6 @@ Office Workplace
 > Is an upgrade possible down the road?
 
 + An upgrade is always possible. You can upgrade to a keyboard with LED lights or get the latest gaming monitor. Get a mousepad and the noise cancelling headset. With time technology improves and gets more and more affordable for consumers. 
-
-![Workplace](workplace.jpg "<b>Workplace</b> (Unsplash: Howard Bouchevereau)")
 
 <br>
 
