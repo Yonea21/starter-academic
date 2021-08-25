@@ -69,3 +69,7 @@ Working through Jim's module was very usefull. In school we also treat hardware 
 
 + 08/25/21 - 08/27/21
 ====================
+Second day at school and two more subjects to take through. I descovered my new favorite module of all: Web Fundamentals. Who would have thought? I enjoy combining technology with design the most. I am learning right know how to create my own HTML site. It really takes time tough. I'd be lost without cheatsheets or the internet. We got a task due 5th of september, in which I create together with my classmate Laura a website for a pizza place. This is actually fun.
+On Tuesday I met another classmate of mine, Oliver, with whom I studied math. We grabed lunch from Mishio and discovered the beautiful sites of Bern. 
+
+![Bern](bern.jpg "<b>Bern</b> (Unsplash: Gül ORL)")
