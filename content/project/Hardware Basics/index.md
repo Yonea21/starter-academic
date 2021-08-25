@@ -155,6 +155,7 @@ Bits and bytes
 ​
 
 3. You buy an HDD advertised with 1TB. How much usable space will the Windows operating system report you and why?  
+
 `1 TB (= 1'000'000'000'000 bytes) will be shown in the advertising.`  
 `But the PC calculates in Tebibytes (Base 2).`  
 `In Base 10 1 TB equals 10^12. In Base 2 this formate would become 2^40.`  
