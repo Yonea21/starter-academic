@@ -144,16 +144,21 @@ Bits and bytes
 ===============
 
 1. Say you have a gigabit internet connection (downstream). How many kilobytes can you download per second?​  
-`1'000'000 KB`  
+`1 Gbit / 8          = 125 Mbytes`
+`125 Mbytes * 1000   = 125'000 kilobytes`  
 ​
 
 2. How many bits are in a Mebibyte?  
-`1'048'576 / 8 = 131'072`  
+`1 MiB          = 1'048'576 bytes`
+`1 byte         = 8 bits`
+`1'048'576 * 8  = 8'388'608`
 ​
 
-3. You buy an HDD advertised with 1TB. How much usable space will the Windows operating system report you and why?  
-`953 GB`  
-`1024 GB would be usable in theory. 1 TB on "Base 10"  equals 1'099'511'627'776 (=:2^40) bits on "Base 2". The PC shows usable space in gigabyte. So we make the calculation {(2^40)TiB / (2^30)GiB = 1024 GB} 1024 := 1 kibibyte`  
+3. You buy an HDD advertised with 1TB. How much usable space will the Windows operating system report you and why? 
+`1 TB (= 1'000'000'000'000 bytes) will be shown in the advertising.`
+`But the PC calculates in Tebibytes (Base 2).`
+`In Base 10 1 TB equals 10^12. In Base 2 this formate would become 2^40.`
+`10^12 / 2^40 = 0.9095 TiB ~ 909.5 GiB`
 
 <br>
 
