@@ -338,7 +338,10 @@ Desired interfaces
 + HDMI for video and sound
 
 > What would I change for in a server?
-+ I would want to make sure to connect two independet Ethernet interfaces for double security. (If one failes, due weather, one still runs.)
++ I would want to make sure to connect at least two independet Ethernet interfaces for double security. (If one failes, due weather, one still runs.)
+
+![Power Lines](electro.jpg "<b>Power Lines</b> (Unsplash: Jorge Salvador)")
+
 
 <br>
 
@@ -374,7 +377,8 @@ Those are the most common Displays:
 + 5 Mbit/s
 
 > What bandwidth (upload/download) do I have at home and on my mobile phone?
-+ 191.65 MBit/s
++ At home:        xxx.xx Mbit/s
++ Mobile phone:   191.65 MBit/s
 
 <br>
 
