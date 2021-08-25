@@ -305,11 +305,9 @@ More on HDDs and SSDs
 There are different types of HDDs like `consumer-grade`, `enterprise-grade`, `NAS-grade` and `server-grade`.  
 
 > What are the differences between those grades?
-xxx
-
-+ Consumer-grade HDDs are more affordable and therefor easy-consumer-friendly.  
-+ If a company risks coming to a stop if the server or dataase goes down, due to a drive failure, an enterpise-grade is considerable.  
-+ A NAS-grade HDD is compareable to a private Cloud in an office. It's connected to a network, cheaper and enables comprehensive control.  
++ Consumer-grade HDDs are more affordable and therefore easy-consumer-friendly. They're being used conventionally in PCs.  
++ If a company risks coming to a stop, if the server or database goes down, due to a drive failure, an enterpise-grade is considerable. An enterprise-grade is classified as fail-safe and contains better mechanical components. This enables the NAS-grade to turn 24/7. The consumer-grade on the other hand though, would give up much sooner.  
++ A NAS-grade HDD is compareable to a private Cloud in an office. It's connected to a network, cheaper and it enables comprehensive control.  
 + Server-grade HDDs have higher standards and requirements compared to regulare home usage HDDs.  
 
 > Are there grades/tiers for SSDs?  
@@ -340,10 +338,7 @@ Desired interfaces
 + HDMI for video and sound
 
 > What would I change for in a server?
-+ X
-+ X
-+ X
-+ X
++ I would want to make sure to connect two independet Ethernet interfaces for double security. (If one failes, due weather, one still runs.)
 
 <br>
 
