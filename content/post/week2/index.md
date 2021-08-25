@@ -74,3 +74,5 @@ Second day at school and two more subjects to take through. I descovered my new 
 On Tuesday I met another classmate of mine, Oliver, with whom I studied math. We grabed lunch from Mishio and discovered the beautiful sites of Bern. 
 
 ![Bern](bern.jpg "<b>Bern</b> (Unsplash: Gül ORL)")
+
+Tuesday evening, back home, I even helped a friend in maths. I showed my friend how to simplify logarithms. There really lies my strength and I'm glad if I can pass on my knowledge and tricks. 
