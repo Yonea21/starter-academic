@@ -379,8 +379,6 @@ Those are the most common Displays:
 + At home:        xxx.xx Mbit/s
 + Mobile phone:   191.65 MBit/s
 
-![Power Lines](electro.jpg "<b>Power Lines</b> (Unsplash: Jorge Salvador)")
-
 <br>
 
 **If you want to know something about monitors, please check the following summary:**  
