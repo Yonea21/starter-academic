@@ -51,7 +51,7 @@ Post-processing
 *Each phase is crucial for fully understanding the following modules:*  
 
 ```
-Project management
+Project Management
 Java Fundamentals
 Discrete Mathematics
 Web Fundamentals
