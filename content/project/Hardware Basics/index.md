@@ -509,8 +509,6 @@ Office Workplace
 
 ![Workplace](workplace.jpg "<b>Workplace</b> (Unsplash: Roberto Nickson)")
 
-<br>
-
 > How should the PC perform?  
 
 + It should have a strong CPU (i5 and better) as well as clock speed.
