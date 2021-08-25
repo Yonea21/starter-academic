@@ -340,7 +340,7 @@ Desired interfaces
 > What would I change for in a server?
 + I would want to make sure to connect at least two independet Ethernet interfaces for double security. (If one failes, due weather, one still runs.)
 
-![Power Lines](electro.jpg "<b>Power Lines</b> (Unsplash: Jorge Salvador)")
+![Ethernet](ethernet.jpg "<b>Ethernet</b> (Unsplash: Lars Kienle)")
 
 
 <br>
