@@ -539,6 +539,8 @@ Office Workplace
 Are you a fan of airflow?
 ==========================
 
+![Fan](fan.jpg "<b>Fan</b> (Unsplash: Immo Wegmann)")
+
 > What metric should be high for a fan on a heatsink? ​
 
 + RPM (:= Revolutions per minute)
