@@ -541,15 +541,16 @@ Are you a fan of airflow?
 
 > What metric should be high for a fan on a heatsink? ​
 
-+ X
++ RPM (:= Revolutions per minute)
 
 > What metric should be high for a case fan?​
 
-+ X
++ Performance
 
 > Why do servers often use small fans instead of bigger ones?
 
-+ X
++ Small fans are space saving.
++ Servers CPU requiers less action, therefore less cooling or airflow. 
 
 <br>
 
