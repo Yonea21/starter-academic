@@ -342,7 +342,6 @@ Desired interfaces
 
 ![Ethernet](ethernet.jpg "<b>Ethernet</b> (Unsplash: Lars Kienle)")
 
-
 <br>
 
 **Table**
