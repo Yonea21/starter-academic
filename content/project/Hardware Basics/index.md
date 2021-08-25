@@ -306,6 +306,8 @@ More on HDDs and SSDs
 There are different types of HDDs like `consumer-grade`, `enterprise-grade`, `NAS-grade` and `server-grade`.  
 
 > What are the differences between those grades?
+xxx
+
 + Consumer-grade HDDs are more affordable and therefor easy-consumer-friendly.  
 + If a company risks coming to a stop if the server or dataase goes down, due to a drive failure, an enterpise-grade is considerable.  
 + A NAS-grade HDD is compareable to a private Cloud in an office. It's connected to a network, cheaper and enables comprehensive control.  
@@ -375,10 +377,10 @@ Those are the most common Displays:
 + `OLED := Organic Light Emitting Diode` 
 
 > How much bandwidth is needed to stream a typical 2 hour Netflix 1080p movie (~6 GB)?
-+ 48 Gbit/s
++ 5 Mbit/s
 
 > What bandwidth (upload/download) do I have at home and on my mobile phone?
-+ X
++ 191.65 MBit/s
 
 <br>
 
@@ -422,6 +424,18 @@ Those are the most common Displays:
 > What are the pros and cons of LCD and OLED compared to eachother?  
 + LCD displays are cheaper and use less energy
 + OLED screens improve in sharper picture, response and contrast 
+
+> Why do OLED screens improve in sharper picture?
++ As mentioned above, they offer significantly higher contrast and thus better picture depth. This is because the brightness of each individual pixel can be adjusted, whereas LCD screens can only be darkened in certain areas.
+
+> DP vs. HDMI
++ HDMI cables can provide 48 bjits per pixel, with displayport it is only 30 bits per pixel. Therefore Ddisplayport is outdated.
+
+> About Licencing...
+Manufacturers to provide HDMI interfaces in their products must pay licenses worth 10'000 USD per year. On the other hand the interface DP doesn't require such expenses. In conclusion manufacturers who want to sell OLED monitors with HDMI interface risk more and must be big deployers.
+
+> Industrie Standard
++ Thin film transistor liquid crystal display (:= TFT-LCD)
 
 ![LCD](lcd.jpg "<b>LCD</b> (Unsplash: AbsolutVision)")
 
