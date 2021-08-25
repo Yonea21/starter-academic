@@ -431,7 +431,7 @@ Those are the most common Displays:
 + HDMI cables can provide 48 bjits per pixel, with displayport it is only 30 bits per pixel. Therefore Ddisplayport is outdated.
 
 > About Licencing...
-Manufacturers to provide HDMI interfaces in their products must pay licenses worth 10'000 USD per year. On the other hand the interface DP doesn't require such expenses. In conclusion manufacturers who want to sell OLED monitors with HDMI interface risk more and must be big deployers.
++ Manufacturers to provide HDMI interfaces in their products must pay licenses worth 10'000 USD per year. On the other hand the interface DP doesn't require such expenses. In conclusion manufacturers who want to sell OLED monitors with HDMI interface risk more and must be big deployers.
 
 > Industrie Standard
 + Thin film transistor liquid crystal display (:= TFT-LCD)
