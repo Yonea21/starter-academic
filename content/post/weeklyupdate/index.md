@@ -77,4 +77,7 @@ On Tuesday I met another classmate of mine, Oliver, with whom I studied math. We
 
 Tuesday evening, back home, I even helped a friend in maths. I showed my friend how to simplify logarithms. There really lies my strength and I'm glad if I can pass on my knowledge and tricks. 
 
-Wednesday, back in the office I worked on my trainee diary and started preparing for my PowerPoint presentation about Liquid Metal as TIM. (LINK)
+Wednesday, back in the office, I worked on my trainee diary and started preparing for my PowerPoint presentation about Liquid Metal as TIM.
+
+Thursday: I got on with my presentation when I realised that I chose a very complex topic. Quickly I decided to change my subject. Talking about GPUs makes me feel definitly more comfortable, as a gamer myself. Since I was a little girl I dreamed about buying my Nvidia GeForce 4GB for optimal gaming experience. Know, some years later, technology advanced and you get better quality for lower prices. But my goal still is to build my owm gaming setup with a highquality GPU and some fancy LED decorated fans. Once I'll have time to game for hours again...
+
