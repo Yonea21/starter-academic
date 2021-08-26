@@ -30,14 +30,6 @@ languages:
 - English
 - French
 
-# Languages to show in About widget
-languages:
-  courses:
-  - German
-  - Spanish
-  - English
-  - French
-  
 # Education to show in About widget
 education:
   courses:
