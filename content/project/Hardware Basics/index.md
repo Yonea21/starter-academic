@@ -552,7 +552,7 @@ Are you a fan of airflow?
 
 <br>
 
-I'm glad that you've made it to the end of this blogpage. Hereby this module is finished. I got the chance to summarize and deepen my knowledge of what i learned in the first few weeks @Amanox in a powerpoint presentation. Feel free to dive in.
+I'm glad that you've made it to the end of this blogpage. Hereby this module is finished. I got the chance to summarize and deepen my knowledge of what i learned in the first few weeks @Amanox in a powerpoint presentation. Feel free to [dive](file:///C:/Users/yonea/Documents/Modul%20Hardware/GPU.pdf) in.
 
 ![Goodbye](thumbnail.jpg "<b>Goodbye</b> (My Animal Crossing Thumbnail)")
 
