@@ -81,3 +81,5 @@ Wednesday, back in the office, I worked on my trainee diary and started preparin
 
 Thursday: I got on with my presentation when I realised that I chose a very complex topic. Quickly I decided to change my subject. Talking about GPUs makes me feel definitly more comfortable, as a gamer myself. Since I was a little girl I dreamed about buying my Nvidia GeForce 4GB for optimal gaming experience. Know, some years later, technology advanced and you get better quality for lower prices. But my goal still is to build my owm gaming setup with a highquality GPU and some fancy LED decorated fans. Once I'll have time to game for hours again...
 
+On friday we had our teammeeting. Xavier and I had to tell about our first three weeks @Amanox. I could have expressed myself way better. That is something that I want to work on. When it's my turn to speak I get stressed pretty easily and tend to speak indistinctly. The first step is to stay calm and take the time. It's allowed to make pauses between the senctences. 
+
