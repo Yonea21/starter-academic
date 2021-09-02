@@ -1,5 +1,5 @@
 ---
-title: Hardware Basics
+title: Offers and GitHub
 summary: Following Jim's module 
 tags:
 - PiBS
@@ -9,7 +9,7 @@ date: 27-06-2020
 external_link: ""
 
 image:
-  caption: Photo by Lorenzo Herrera on Unsplash
+  caption: Photo by Roman Synkevych on Unsplash
   focal_point: Smart
 
 links:
