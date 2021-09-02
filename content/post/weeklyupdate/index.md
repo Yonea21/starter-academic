@@ -55,7 +55,7 @@ Project Management
 Java Fundamentals
 Discrete Mathematics
 Web Fundamentals
-Fundamentals of Computer Engineering
+Basics of technical informatics
 Linear Algebra
 ```
 
@@ -81,5 +81,12 @@ Wednesday, back in the office, I worked on my trainee diary and started preparin
 
 Thursday: I got on with my presentation when I realised that I chose a very complex topic. Quickly I decided to change my subject. Talking about GPUs makes me feel definitly more comfortable, as a gamer myself. Since I was a little girl I dreamed about buying my Nvidia GeForce 4GB for optimal gaming experience. Know, some years later, technology advanced and you get better quality for lower prices. But my goal still is to build my owm gaming setup with a highquality GPU and some fancy LED decorated fans. Once I'll have time to game for hours again...
 
-On friday we had our teammeeting. Xavier and I had to tell about our first three weeks @Amanox. I could have expressed myself way better. That is something that I want to work on. When it's my turn to speak I get stressed pretty easily and tend to speak indistinctly. The first step is to stay calm and take the time. It's allowed to make pauses between the senctences. 
+On friday we had our teammeeting. Xavier and I had to tell about our first three weeks @Amanox. I could have expressed myself way better. That is something that I want to work on. When it's my turn to speak I get stressed pretty easily and tend to speak indistinctly. The first step is to stay calm and take the time. It's allowed to make pauses between the senctences. Later on I held a presentation about the GPU. After John's constructive feedback, I know how to improve my presentation skills.
+
+
+09/01/21 - 09/03/21
+=====================
+School, School, School! I learned that having six modules is pretty tough. I had a short crisis, but everybody had. I stay positiv and make the best out of my days. Right now I'm creating a website for a pizzeria on the basis of GitHub and Webstorm. It's due to next monday. We also have a huge assignment in `basics of technical informatcis` due then. It's about understanding the Johnny Simulator, following through related tasks and record the steps in an documentation.
+
+
 
