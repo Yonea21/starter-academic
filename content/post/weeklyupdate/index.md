@@ -87,7 +87,7 @@ On friday we had our teammeeting. Xavier and I had to tell about our first three
 
 09/01/21 - 09/03/21
 =====================
-School, School, School! I learned that having six modules is pretty tough. I had a short crisis, but everybody had. I stay positiv and make the best out of my days. Right now I'm creating a website for a pizzeria on the basis of GitHub and Webstorm. It's due to next monday. We also have a huge assignment in `basics of technical informatcis` due then. It's about understanding the Johnny Simulator, following through related tasks and record the steps in an documentation.
+School, School, School! I learned that having six modules is pretty tough. I had a short crisis, but everybody had. I stay positiv and make the best out of my days. Right now I'm creating a website for a pizzeria on the basis of GitHub and Webstorm. It's due to next monday. We also have a huge assignment in `basics of technical informatcis` due then. It's about understanding the Johnny Simulator, following through related tasks and record the steps in a documentation.
 
 
 
