@@ -83,6 +83,7 @@ Thursday: I got on with my presentation when I realised that I chose a very comp
 
 On friday we had our teammeeting. Xavier and I had to tell about our first three weeks @Amanox. I could have expressed myself way better. That is something that I want to work on. When it's my turn to speak I get stressed pretty easily and tend to speak indistinctly. The first step is to stay calm and take the time. It's allowed to make pauses between the senctences. Later on I held a presentation about the GPU. After John's constructive feedback, I know how to improve my presentation skills.
 
+<br>
 
 09/01/21 - 09/03/21
 =====================
