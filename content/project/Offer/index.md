@@ -28,6 +28,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
+**Module Part 1**
 
 How to build an offer for a PC or a server
 ===========================================
@@ -35,3 +36,21 @@ If a client of yours submits an order, you submit an offer in return. This enabl
 
 > First you need to know what an offer usually contains. 
 + provider, date, location, validity, services/material, customer, reciver, contact person, invoice address, reference numbers, offer number
+
+> You then create the offer based on the requirements given by your client. 
++ Oftentimes you'll see that your clients needs not always are clear. That's where you as a provider find suitable solutions. 
+
+> Send the offer or maybe two offers to consult your client.
++ Sometimes it is an advantage to be prepared and offer different kind of solutions to maintain flexibility. 
+
+<br>
+
+**Module Part 2**
+
+Working with GitHub
+=====================
+GitHub is a wonderful tool for creating projects. To be precise it's a software versioning tool or VCS (:= Version Control System). It also turns out to be an absolut necessity, when several programmers work on the same project. It was orginally made by Linus Torvalds, the founder of Linux. 
+
+You can envision VCS like a graph:
+
+![Graph 1](fan.jpg "<b>Graph 1</b> (Module 1.5)")
