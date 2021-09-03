@@ -55,9 +55,27 @@ You can envision VCS like a graph:
 
 ![Graph 1](graph1.jpg "<b>Graph 1</b> (Module 1.5)")
 
-Let's take the image above as an example. The green part is the masterbranch, whereas the blue and orange ones are additional branches, enabling programmers to work on their own copy of the project/code or change the content. Those changes include bugfixes, new features or updates. To realize the work, they merge the edited on to the masterbranch.
+Let's take the image above as an example. The green part is the master branch, whereas the blue and orange ones are additional branches, enabling programmers to work on their own copy of the project/code or change the content. Those changes include bugfixes, new features or updates. To realize the work, they merge the edited on to the master branch.
 
 > The main rule is to never work on the master branch. Processes should always be done on a developing branch.
+
+![Graph 2](graph2.jpg "<b>Graph 2</b> (Module 1.5)")
+
+The repository is a remote location. To work on a project you need to clone the repo locally. You can use a programm like Visual Stuido Code, pull your branch, and edit your changes there. If you commit and push your changes will be transmitted to the remote location. 
+
+It's meant to be a transparent tool. The project participants can see who did what, when and why. Team members can work on different tasks without conflicting others. Don't upload temporary date used only for testing purposes or stuff that your specific IDE (:= Integrated Development Environment) uses.
+
+CHeckout the GitHub [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf) 
+
+```Some git commands visualised by a DAG (:= Directed Acyclic Graph):```
+![Graph 3](graph3.jpg "<b>Graph 3</b> (Module 1.5)")
+
+`git commit -m "your commit message"`
+`git merge <branch>`
+`git rebase -i <base>`
+
+A DAG never forms a cylce, therfore alwas goes in a direction and never to a previous node.
+
 
 
 
