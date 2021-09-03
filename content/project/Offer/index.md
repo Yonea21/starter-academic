@@ -53,7 +53,7 @@ GitHub is a wonderful tool for creating projects. To be precise it's a software 
 
 You can envision VCS like a graph:
 
-![Graph 1](fan.jpg "<b>Graph 1</b> (Module 1.5)")
+![Graph 1](graph1.jpg "<b>Graph 1</b> (Module 1.5)")
 
 Let's take the image above as an example. The green part is the masterbranch, whereas the blue and orange ones are additional branches, enabling programmers to work on their own copy of the project/code or change the content. Those changes include bugfixes, new features or updates. To realize the work, they merge the edited on to the masterbranch.
 
