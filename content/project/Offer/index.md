@@ -65,7 +65,7 @@ The repository is a remote location. To work on a project you need to clone the 
 
 It's meant to be a transparent tool. The project participants can see who did what, when and why. Team members can work on different tasks without conflicting others. Don't upload temporary date used only for testing purposes or stuff that your specific IDE (:= Integrated Development Environment) uses.
 
-CHeckout the GitHub [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf) 
+Checkout the GitHub [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf) 
 
 ```Some git commands visualised by a DAG (:= Directed Acyclic Graph):```
 ![Graph 3](graph3.jpg "<b>Graph 3</b> (Module 1.5)")
