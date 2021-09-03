@@ -70,9 +70,9 @@ CHeckout the GitHub [GIT CHEAT SHEET](https://education.github.com/git-cheat-she
 ```Some git commands visualised by a DAG (:= Directed Acyclic Graph):```
 ![Graph 3](graph3.jpg "<b>Graph 3</b> (Module 1.5)")
 
-`git commit -m "your commit message"`
-`git merge <branch>`
-`git rebase -i <base>`
+`git commit -m "your commit message"`  
+`git merge <branch>`  
+`git rebase -i <base>`  
 
 A DAG never forms a cylce, therfore alwas goes in a direction and never to a previous node.
 
