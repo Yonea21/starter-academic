@@ -502,6 +502,78 @@ run
 25
 26
 ```
+<br>
+
+lower()
+=========
+
+The `lower()` method converts all uppercase characters in a string into lowercase characters and returns it.
+Example:
+```
+words = "PYTHON IS FUN"
+print(words.lower())
+
+run
+
+python is fun
+```
+Example 2:
+
+```
+firstString = "PYTHON IS AWESOME!"
+secondString = "PyThOn Is AwEsOmE!"
+
+if(firstString.lower() == secondString.lower()):
+    print("The strings are same.")
+else:
+    print("The strings are not same.")
+
+run
+
+The strings are same.
+```
+<br>
+
+replace()
+=========
+
+The `replace()` method replaces a specified phrase with another specified phrase.
+```
+message = "I like New York."
+print(message)
+print(message.replace("like New York", "prefer Bern"))
+
+run
+
+I like New York.
+I prefer Bern.
+```
+<br>
+
+split()
+=======
+
+Splits a text into sperate words.
+```
+messagetosplit = "I want to split this phrase with python."
+print(messagetosplit.split())
+
+run
+
+['I', 'want', 'to', 'split', 'this', 'phrase', 'with', 'python.']
+```
+
+Or eliminate unwanted factors:
+```
+txt = "apple@banana@cherry@orange"
+print(txt.split("@"))
+
+run
+
+['apple', 'banana', 'cherry', 'orange']
+```
+
+
 
 
 
