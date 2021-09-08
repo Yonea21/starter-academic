@@ -30,15 +30,18 @@ url_video: ""
 ---
 
 > Get started
+
 After you [download](https://www.python.org/downloads/) Python, search `IDLE` in your PC and create a new file.
 <br>
 
 > Syntax
+
 `print("This is an example.")`
 The highlighted above shows the syntax. The command `print` must be written in lower case. The printed as a text must be in quotes.
 <br>
 
 > Identation
+
 Indentation refers to the spaces at the beginning of a code line.
 Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
 Python uses indentation to indicate a block of code.
@@ -53,6 +56,7 @@ if 5 > 2:
 <br>
 
 > Comments
+
 There are two ways to include comments, that won't be shown when ran.
 
 `Hashtag:`
@@ -70,6 +74,7 @@ comment
 <br>
 
 > Variables
+
 You assign a value to the created variable. Otherwise Python has no command for detecting a variable.
 
 ```
@@ -82,6 +87,14 @@ print(y)
 Multiple values to multiple variables:
 ```
 x, y, z = "Guava", "Banana", "Papaya"
+
+print(x)
+print(y)
+print(z)
+```
+One value to multiple variables:
+```
+x = y = z = "Strawberry"
 
 print(x)
 print(y)
