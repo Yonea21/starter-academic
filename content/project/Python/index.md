@@ -48,13 +48,17 @@ Indentation refers to the spaces at the beginning of a code line.
 Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
 Python uses indentation to indicate a block of code.
 
-`Error:`  
+Error:  
+```
 if 5 > 2:  
 print("Five is greater than two!")
+```
 
-`Correct:`  
+Correct:
+```  
 if 5 > 2:  
     print("Five is greater than two!")
+```
 
 <br>
 
@@ -62,13 +66,15 @@ if 5 > 2:
 
 There are two ways to include comments, that won't be shown when ran.
 
-`Hashtag:`  
+Hashtag:
+```  
 #This is a comment  
 print("XXX")  
-  
+```
+ 
 or  
   
-`Quotes:`  
+Quotes:  
 ```
 """
 multiple
@@ -99,9 +105,20 @@ print(x)
 print(y)
 print(z)
 ```
+
 One value to multiple variables:  
 ```
 x = y = z = "Strawberry"
+
+print(x)
+print(y)
+print(z)
+```
+
+Extract values:
+```
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
 
 print(x)
 print(y)
