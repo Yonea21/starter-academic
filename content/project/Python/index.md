@@ -147,3 +147,87 @@ apple
 berry
 cherry
 ```
+<br>
+> Output Variables
+
+The Python print statement is often used to output variables.
+To combine both text and a variable, Python uses the `+` character:
+
+```
+x = "awesome"
+print("Python is " + x)
+
+run
+
+Python is awesome
+```
+```
+x = "awesome"
+print("Python is " + x + ".")
+
+run
+
+Python is awesome.
+```
+
+Combine variables:
+```
+x = "Python is "
+y = "awesome."
+z = x + y
+print(z)
+
+run
+
+Python is awesome.
+```
+
+Instead of using String (texts) use Integer (numbers). Then the `omen` works as a mathematical operator. I played with some examples:
+```x = 5
+y = 10
+print(x+y)
+
+x = 5
+y = 10
+print(x*y)
+
+x = 5
+y = 10
+print(x/y)
+
+x = 5
+y = 10
+print(x-y)
+
+x = 5
+y = 10
+print(x<y)
+
+x = 5
+y = 10
+print(x>y)
+
+x = 5
+y = 10
+print(x==y)
+
+x = 5
+y = 10
+print(x<=y)
+
+x = 5
+y = 10
+print(x>=y)
+
+run
+
+15
+50
+0.5
+-5
+True
+False
+False
+True
+False
+```
