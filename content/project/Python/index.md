@@ -474,6 +474,34 @@ run
 
 False
 ```
+<br>
+
+find()
+=======
+This function returns the position of the specified value as a number. For a whole word, it is the first letter in each case.
+```
+message = "Hello, welcome to my world."
+
+print(message.find("Hello"))
+print(message.find(","))
+print(message.find("welcome"))
+print(message.find("to"))
+print(message.find("my"))
+print(message.find("world"))
+print(message.find("d"))
+print(message.find("."))
+
+run
+
+0
+5
+7
+15
+18
+21
+25
+26
+```
 
 
 
