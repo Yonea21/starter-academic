@@ -148,6 +148,7 @@ berry
 cherry
 ```
 <br>
+
 > Output Variables
 
 The Python print statement is often used to output variables.
