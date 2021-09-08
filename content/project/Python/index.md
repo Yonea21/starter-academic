@@ -86,6 +86,7 @@ You assign a value to the created variable. Otherwise Python has no command for 
 ```
 x = 5
 y = "John"
+
 print(x)
 print(y)
 ```
