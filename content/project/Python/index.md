@@ -32,12 +32,14 @@ url_video: ""
 > Get started
 
 After you [download](https://www.python.org/downloads/) Python, search `IDLE` in your PC and create a new file.
+
 <br>
 
 > Syntax
 
 `print("This is an example.")`
 The highlighted above shows the syntax. The command `print` must be written in lower case. The printed as a text must be in quotes.
+
 <br>
 
 > Identation
@@ -53,6 +55,7 @@ print("Five is greater than two!")
 `Correct:`  
 if 5 > 2:  
     print("Five is greater than two!")
+
 <br>
 
 > Comments
@@ -61,21 +64,22 @@ There are two ways to include comments, that won't be shown when ran.
 
 `Hashtag:`  
 #This is a comment  
-print("XXX")
-
-or
-
+print("XXX")  
+  
+or  
+  
 `Quotes:`  
 """
 multiple
 line
 comment
 """
+
 <br>
 
 > Variables
 
-You assign a value to the created variable. Otherwise Python has no command for detecting a variable.
+You assign a value to the created variable. Otherwise Python has no command for detecting a variable.  
 
 ```
 x = 5
@@ -84,7 +88,7 @@ print(x)
 print(y)
 ```
 
-Multiple values to multiple variables:
+Multiple values to multiple variables:  
 ```
 x, y, z = "Guava", "Banana", "Papaya"
 
@@ -92,7 +96,7 @@ print(x)
 print(y)
 print(z)
 ```
-One value to multiple variables:
+One value to multiple variables:  
 ```
 x = y = z = "Strawberry"
 
