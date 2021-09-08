@@ -95,6 +95,11 @@ y = "John"
 
 print(x)
 print(y)
+
+run
+
+5
+John
 ```
 
 Multiple values to multiple variables:  
@@ -104,6 +109,12 @@ x, y, z = "Guava", "Banana", "Papaya"
 print(x)
 print(y)
 print(z)
+
+run
+
+Guava
+Banana
+Papaya
 ```
 
 One value to multiple variables:  
@@ -113,14 +124,26 @@ x = y = z = "Strawberry"
 print(x)
 print(y)
 print(z)
+
+run
+
+Strawberry
+Strawberry
+Strawberry
 ```
 
 Extract values:
 ```
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "berry", "cherry"]
 x, y, z = fruits
 
 print(x)
 print(y)
 print(z)
+
+run
+
+apple
+berry
+cherry
 ```
