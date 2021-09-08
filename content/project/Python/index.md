@@ -364,6 +364,118 @@ In the following graph you see the data structure:
 
 ![Data Structure](datagraph.png "<b>Data Structure</b> (Module 2)")
 
-Hello
+Setting data type example:
+```
+x = {"name" : "John", "age" : 36}
+print(x)
+
+print(type(x))
+
+run
+
+{'name': 'John', 'age': 36}
+<class 'dict'>
+```
+
+Setting specific data type example:
+```
+x = dict(name="John", age=36)
+print(x)
+print(type(x))
+
+y = bool(5)
+print(y)
+print(type(y))
+
+run
+
+{'name': 'John', 'age': 36}
+<class 'dict'>
+
+True
+<class 'bool'>
+```
+<br>
+
+capitalize()
+=====
+
+In Python, the capitalize() method returns a copy of the original string and converts the first character of the string to a capital (uppercase) letter while making all other characters in the string lowercase letters.
+
+```
+name = ("yO Me LlamO...")
+print(name.capitalize())
+
+run
+
+Yo me llamo...
+```
+
+"python for dummies" becomes "PythonForDummies":
+```
+name1 = "python"
+name2 = "for"
+name3 = "dummies"
+print(name1.capitalize() + name2.capitalize()
+                         + name3.capitalize())
+
+run
+
+PythonForDummies
+```
+<br>
+
+count()
+====
+
+Shows the number of times a specified value occurs in a string.
+```
+Buildings = ["big", "small", "big", "small", "small", "big", "tiny", "big"]
+
+print(Buildings.count("small"))
+print(Buildings.count("big"))
+print(Buildings.count("tiny"))
+
+run
+
+3
+4
+1
+```
+<br>
+
+endswith()
+===========
+The `endswith()` method returns `true`if a string ends with the specified suffix. If not, it returns `False`.
+Example:
+```
+anything = "Python is fun"
+print(anything.endswith("fun"))
+
+run
+
+True
+```
+and
+```
+anything = "Python is fun"
+print(anything.endswith("n"))
+
+run
+
+True
+```
+or
+```
+anything = "Python is fun"
+print(anything.endswith("u"))
+
+run
+
+False
+```
+
+
+
 
 
