@@ -231,3 +231,148 @@ False
 True
 False
 ```
+
+Error, you cannot combine a string and a number:
+```
+x = 5
+y = "John"
+print(x+y)
+
+run
+
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+```
+<br>
+
+> Global Variables
+
+Variables that are created outside of a function (as in all of the examples above) are known as global variables.
+Global variables can be used by everyone, both inside of functions and outside.
+
+Create a variable outside of a function, and use it inside the function:
+```
+x = "awesome."
+
+def myfunc():
+    print("Python is " + x)
+
+myfunc()
+
+run
+
+Python is awesome.
+```
+
+If you create a variable with the same name inside a function, this variable will be local, and can only be used inside the function. The global variavle with the same name will remain as it was, global and with the original value. 
+```
+x = "awesome."
+
+def myfunc():
+    x = "fantastic."
+    print("Python is " + x)
+
+myfunc()
+
+print("Python is " + x)
+
+run
+
+Python is fantastic.
+Python is awesome.
+```
+
+Use the global keyword:
+```
+x = "awesome."
+
+def myfunc():
+    global x
+    x = "fantastic."
+    print("Python is " + x)
+
+myfunc()
+
+print("Python is " + x)
+
+run
+
+Python is fantastic.
+Python is fantastic.
+```
+<br>
+
+Built-in Data Types
+======================
+
+> Text Type:
+```
+str
+```
+
+> Numeric Types:
+```
+int
+float
+complex
+```
+
+> Sequence Types:
+```
+list
+tuple
+range
+```
+
+> Mapping Type:
+```
+dict
+```
+
+> Set Types:
+```
+set
+frozenset
+```
+
+> Boolean Type:
+```
+bool
+```
+
+> Binary Types:
+```
+bytes
+bytearray
+memoryview
+```
+
+Example with `type()` function:
+```
+x = 5
+print(type(x))
+
+run
+
+<class 'int'>
+```
+(numeric type, integer)
+
+<br>
+
+In the following graph you see the different data types:
+
+![Graph 2](graph2.jpg "<b>Graph 2</b> (Module 1.5)")
+
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+
+
