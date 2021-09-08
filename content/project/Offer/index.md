@@ -76,9 +76,6 @@ Checkout the GitHub [GIT CHEAT SHEET](https://education.github.com/git-cheat-she
 
 A DAG never forms a cylce, therfore alwas goes in a direction and never to a previous node.
 
-<br>
-
-> Ignoring files
 
 
 
