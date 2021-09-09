@@ -625,6 +625,7 @@ HELLO FRIENDO
 
 Implementing a List and an Array
 =================================
+<br>
 
 **List**  
 List with an Integer, a String and a nested list:
@@ -650,6 +651,7 @@ run
 
 [21, 'student', 11, 'books', 'read', 33]
 ```
+<br>
 
 **Array**  
 The sum of two lists:
@@ -662,6 +664,7 @@ run
 
 [7, 9, 11, 13, 15]
 ```
+<br>
 
 **Many usages of List**  
 
@@ -821,6 +824,40 @@ run
 ```
 
 ![Fruit](apples.jpg "<b>Fruit</b> (Photo by Jocelyn Morales on Unsplash)")
+
+The `del` keyword also removes the specified index:
+```
+thislist = ["pear", "lychee", "apple"]
+del thislist [0]
+print (thislist)
+
+run
+
+['lychee', 'apple']
+```
+
+You also can delete the list completely:
+```
+thislist = ["pear", "lychee", "apple"]
+del thislist
+print (thislist)
+
+run
+
+NameError: name 'thislist' is not defined
+```
+
+Or use `clear()`method:
+```
+thislist = ["pear", "lychee", "apple"]
+thislist.clear()
+print(thislist)
+
+run
+
+[]
+```
+
 
 
 
