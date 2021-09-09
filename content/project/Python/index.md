@@ -630,7 +630,7 @@ Implementing a List and an Array
 **List**  
 List with an Integer, a String and a nested list:
 ```
-thislist = [5, "banana", "[list, in a, list]"]
+thislist = [5, "banana", "[list, in a, list]"] #syntax requires angular brackets
 for x in thislist:
   print(x)
 
@@ -1024,7 +1024,7 @@ Tuples
 
 > Implement a tuple with 3 elements
 ```
-mytuple = ("amanox", "is", "good")
+mytuple = ("amanox", "is", "good") #syntax requires standard brackets
 print(mytuple)
 
 run
@@ -1107,5 +1107,115 @@ run
 ![tuple](tuple.jpg "<b>Tuple</b> (Photo by Jan Huber on Unsplash)")
 
 <br>
+
+Set
+===
+
+> Implement a set with 3 elements
+
+```
+myset = {"notebook", "desk", "office"} #syntax requires curly brackets
+print(myset)
+
+run
+
+{'desk', 'notebook', 'office'}
+```
+<br>
+
+> Duplicates are not allowed
+
+Items or values that occur several times, are ignored:
+```
+myset = {"notebook", "desk", "office", "notebook"} #the word "notebook" appears twice
+print(myset) #commands output
+
+run
+
+{'notebook', 'office', 'desk'} #as you can see, the duplicate was ignored
+```
+<br>
+
+> Join two sets
+
+The `union()` method returns a new set with all items from both sets:
+```
+set1 = {"x", "y", "z"}
+set2 = {3,6,9}
+set3 = set1.union(set2)
+print(set3)
+
+run
+
+{'y', 'x', 'z', 3, 6, 9}
+```
+<br>
+
+> Why are sets better than lists?
+
+They are very useful to eliminate duplicates, since duplicate elements are not allowed. Therefore, sets are best for implementing mathematical operations such as unions and intersections.
+
+<br>
+
+> All existing methods for sets
+
+Method `add()` adds an element to the set:
+```
+brands = {"nike", "puma", "adidas"} #the brackets indicate that it is a set
+brands.add("yonex")
+print(brands)
+
+run
+
+{'nike', 'adidas', 'yonex', 'puma'}
+```
+
+Method `clear()`removes the sets content between the brackets:
+```
+brands = {"nike", "puma", "adidas"}
+brands.clear()
+print(brands)
+
+run
+
+set() #output returns standard brackets
+```
+
+Method `copy()` returns your sets copy:
+```
+brands = {"nike", "puma", "adidas"}
+x = brands.copy()
+print(x)
+
+run
+
+{'puma', 'nike', 'adidas'}
+```
+
+Method `difference()` returns a set that contains items that only exists in set x, and not in set y:
+```
+x = {"apple", "banana", "cherry"}
+y = {"google", "microsoft", "apple"}
+z = x.difference(y)
+print(z)
+
+run
+
+{'banana', 'cherry'}
+```
+
+Method `difference_update()` removes the unwanted items form the origianl set. The parameter value `set` is required:
+```
+x = {"nagasaki", "heroshima", "kyoto"}
+y = {"tokyo", "osaka", "nagasaki"}
+x.difference_update(y) #in this case, "x" is the required "set"
+print(x)
+
+run
+
+{'kyoto', 'heroshima'}
+```
+
+
 
 
