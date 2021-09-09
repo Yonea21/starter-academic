@@ -626,7 +626,7 @@ HELLO FRIENDO
 Implementing a List and an Array
 =================================
 
-**List**
+**List**  
 List with an Integer, a String and a nested list:
 ```
 thislist = [5, "banana", "[list, in a, list]"]
@@ -651,7 +651,7 @@ run
 [21, 'student', 11, 'books', 'read', 33]
 ```
 
-**Array**
+**Array**  
 The sum of two lists:
 ```
 first = [1,2,3,4,5]
@@ -663,7 +663,7 @@ run
 [7, 9, 11, 13, 15]
 ```
 
-**Many usages of List**
+**Many usages of List**  
 
 > Simple List
 
@@ -671,7 +671,7 @@ run
 thislist = ["apple", "banana", "cherry"]
 print(thislist)
 ```
-> Access an Item
+> Access an item
 
 Positive indexing means to start from the beginning:
 ```
@@ -703,7 +703,7 @@ run
 ['mango', 'star fruit', 'grapefruit']
 ```
 
-This will return the items from index 0 to index 4.:
+This will return the items from index 0 to index 4:
 ```
 thislist = ["papaya", "passion fruit", "mango", "star fruit", "grapefruit", "melon", "lychee"]
 print(thislist[:4])
@@ -713,7 +713,116 @@ run
 ['papaya', 'passion fruit', 'mango', 'star fruit']
 ```
 
-> Change an Item
+> Change an item
+
+Replaces the value:
+```
+thislist = ["pear", "apple", "cherry"]
+thislist[1] = "blackcurrant"
+print(thislist)
+
+run
+
+['pear', 'blackcurrant', 'cherry']
+```
+
+Replaces the value with two new items:
+```
+thislist = ["pear", "apple", "cherry"]
+thislist[1:2] = "blackcurrant", "melon"
+print(thislist)
+
+run
+
+['pear', 'blackcurrant', 'melon', 'cherry']
+```
+
+The `insert()` method inserts an item at the specified index:
+```
+thislist = ["pear", "apple", "cherry"]
+thislist.insert(0, "meleon")
+print(thislist)
+
+run
+
+['meleon', 'pear', 'apple', 'cherry']
+```
+
+> Add an item
+
+Using the `append()` method to append an item:
+```
+thislist = ["apple", "banana", "cherry"]
+thislist.append("orange")
+print(thislist)
+
+run
+
+['apple', 'banana', 'cherry', 'orange']
+```
+
+To append elements from another list to the current list, use the `extend()` method:
+```
+thislist = ["apple", "banana", "cherry"]
+tropical = ["mango", "pineapple", "papaya"]
+thislist.extend(tropical)
+print(thislist)
+
+run
+
+['apple', 'banana', 'cherry', 'mango', 'pineapple', 'papaya']
+```
+
+You also can add any iterable object (tuples, sets, dictionaries etc.):
+```
+thislist = ["apple", "banana", "cherry"]
+thistuple = ("kiwi", "orange")
+thislist.extend(thistuple)
+print(thislist) 
+
+run
+
+['apple', 'banana', 'cherry', 'kiwi', 'orange']
+```
+
+> Remove an item
+
+The `remove()` method removes the specified item:
+```
+thislist = ["apple", "banana", "cherry"]
+thislist.remove("banana")
+print(thislist)
+
+run
+
+['apple', 'cherry']
+```
+
+Remove specified Index with `pop()`:
+```
+thislist = ["apple", "banana", "cherry"]
+thislist.pop(0)
+print(thislist)
+
+run
+
+['banana', 'cherry']
+```
+
+If you don't specifiy the `pop()`method, it removes the last item:
+```
+thislist = ["pear", "lychee", "apple"]
+thislist.pop()
+print(thislist)
+
+run
+
+['pear', 'lychee']
+```
+
+![Fruit](apples.jpg "<b>Fruit</b> (Photo by Franco Antonio Giovanella on Unsplash)")
+
+
 
 
 
