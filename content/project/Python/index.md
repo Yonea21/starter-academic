@@ -695,7 +695,7 @@ cherry
 
 Return the third, fourth, and fifth item:
 ```
-papaya", "passion fruit", "mango", "star fruit", "grapefruit", "melon", "lychee"]
+thislist = ["papaya", "passion fruit", "mango", "star fruit", "grapefruit", "melon", "lychee"]
 print(thislist[2:5])
 
 run
