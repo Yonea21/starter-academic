@@ -1020,6 +1020,87 @@ run
 
 Tuples
 ========
+<br>
 
+> Implement a tuple with 3 elements
+```
+mytuple = ("amanox", "is", "good")
+print(mytuple)
 
+run
+
+('amanox', 'is', 'good')
+```
+<br>
+
+> Add an element to `mytuple`:
+
+The method `append()`does **not** work with tuples. Convert it into a list instead:
+```
+thistuple = ("origami", "nagasaki", "kyoto") #first you write your tuple
+y = list(thistuple)                          #then you define your tuple as a list, you convert
+y.append("hiroshima")                        #use method append() to add an item in your converted tuple
+thistuple = tuple(y)                         #you define your converted tuple (your list) as the uptdated tuple(y)
+print(thistuple)                             #you want to see the output
+
+run
+
+('origami', 'nagasaki', 'kyoto', 'hiroshima')
+```
+<br>
+
+> Join two tuples
+
+Use operator `+`:
+```
+tuple1 = ("x", "y", "z")
+tuple2 = (3,6,9)
+
+tuple3 = tuple1 + tuple2
+print(tuple3)
+
+run
+
+('x', 'y', 'z', 3, 6, 9)
+```
+
+You also can multiply tuples:
+```
+brands = ("nike", "puma", "adidas")*2
+print(brands)
+
+run
+
+('nike', 'puma', 'adidas', 'nike', 'puma', 'adidas')
+```
+<br>
+
+> Why are tuples better than lists?
+Size. In Python, tuples are allocated large blocks of memory with lower overhead, since they are immutable, whereas for lists, small memory blocks are allocated. Between the two, tuples have smaller memory. This helps in making tuples faster than lists when there are a large number of elements.
+<br>
+
+> All existing methods for tuples
+
+Method `count()` counts the amount a specified item appears in a tuple:
+```
+brands = ("nike", "puma", "adidas", "nike")
+x = brands.count("nike")
+print(x)
+
+run
+
+2
+```
+
+Method `index()` shows the position of the specified item as a number:
+```
+brands = ("nike", "puma", "adidas", "nike")
+x = brands.index("puma")
+print(x)
+
+run
+
+1
+```
+![tuple](tuple.jpg "<b>Tuple</b> (Photo by Jan Huber on Unsplash)")
 
