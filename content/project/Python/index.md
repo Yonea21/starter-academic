@@ -607,6 +607,114 @@ run
 
 Of all fruits papaya is my favorite.
 ```
+<br>
+
+upper()
+========
+
+The `upper` method returns a string where all characters are in upper case. Symbols and Numbers are ignored.
+```
+text = "Hello friendo"
+print(text.upper())
+
+run
+
+HELLO FRIENDO
+```
+<br>
+
+Implementing a List and an Array
+=================================
+
+**List**
+List with an Integer, a String and a nested list:
+```
+thislist = [5, "banana", "[list, in a, list]"]
+for x in thislist:
+  print(x)
+
+run
+
+5
+banana
+[list, in a, list]
+```
+
+Merged list:
+```
+listone = [21,"student",11]
+listtwo = ["books","read",33]
+print(listone + listtwo)
+
+run
+
+[21, 'student', 11, 'books', 'read', 33]
+```
+
+**Array**
+The sum of two lists:
+```
+first = [1,2,3,4,5]
+second = [6,7,8,9,10]
+print([x + y for x, y in zip(first, second)])
+
+run
+
+[7, 9, 11, 13, 15]
+```
+
+**Many usages of List**
+
+> Simple List
+
+```
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
+```
+> Access an Item
+
+Positive indexing means to start from the beginning:
+```
+thislist = ["apple", "banana", "cherry"]
+print(thislist[1])
+
+run
+
+banana
+```
+
+Negative indexing means to start from the end:
+```
+thislist = ["apple", "banana", "cherry"]
+print(thislist[-1])
+
+run
+
+cherry
+```
+
+Return the third, fourth, and fifth item:
+```
+papaya", "passion fruit", "mango", "star fruit", "grapefruit", "melon", "lychee"]
+print(thislist[2:5])
+
+run
+
+['mango', 'star fruit', 'grapefruit']
+```
+
+This will return the items from index 0 to index 4.:
+```
+thislist = ["papaya", "passion fruit", "mango", "star fruit", "grapefruit", "melon", "lychee"]
+print(thislist[:4])
+
+run
+
+['papaya', 'passion fruit', 'mango', 'star fruit']
+```
+
+> Change an Item
+
 
 
 
