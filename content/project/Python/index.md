@@ -572,9 +572,41 @@ run
 
 ['apple', 'banana', 'cherry', 'orange']
 ```
+<br>
 
+startswith()
+==============
 
+The `startswith()` method returns True if the string starts with the specified value, otherwise False.
+```
+text = ("Hello, welcome to my world.")
+print(text.startswith("He"))
 
+run
+
+True
+```
+<br>
+
+split()
+========
+
+The `stirp()`method removes any leading spaces at the beginning and trailing characters.
+![Split cup](split.jpg "<b>Split cup</b> (Photo by Tania Melnyczuk on Unsplash)")
+```
+myword = "    papaya    "
+print("Of all fruits", myword.strip(), "is my favorite.")
+
+or
+
+myword = "   papaya   "
+x = myword.strip()
+print("Of all fruits", x, "is my favorite.")
+
+run
+
+Of all fruits papaya is my favorite.
+```
 
 
 
