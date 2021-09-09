@@ -1076,6 +1076,7 @@ run
 <br>
 
 > Why are tuples better than lists?
+
 Size. In Python, tuples are allocated large blocks of memory with lower overhead, since they are immutable, whereas for lists, small memory blocks are allocated. Between the two, tuples have smaller memory. This helps in making tuples faster than lists when there are a large number of elements.
 <br>
 
@@ -1103,4 +1104,7 @@ run
 1
 ```
 ![tuple](tuple.jpg "<b>Tuple</b> (Photo by Jan Huber on Unsplash)")
+
+<br>
+
 
