@@ -820,7 +820,7 @@ run
 ['pear', 'lychee']
 ```
 
-![Fruit](apples.jpg "<b>Fruit</b> (Photo by Franco Antonio Giovanella on Unsplash)")
+![Fruit](apples.jpg "<b>Fruit</b> (Photo by Jocelyn Morales on Unsplash)")
 
 
 
