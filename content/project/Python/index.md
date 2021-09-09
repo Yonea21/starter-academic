@@ -847,7 +847,7 @@ run
 NameError: name 'thislist' is not defined
 ```
 
-Or use `clear()`method:
+Or use `clear()`method to clear the content of the list:
 ```
 thislist = ["pear", "lychee", "apple"]
 thislist.clear()
@@ -858,10 +858,168 @@ run
 []
 ```
 
+> Loop lists
 
+You can loop through the list items by using a `for` loop:
+```
+thislist = ["pear", "lychee", "apple"]
+for x in thislist:
+    print(x)
 
+run
 
+pear
+lychee
+apple
+```
 
+Loops trhrough, refering to index number. Creates a suitable iterable with `range()`and `len()`:
+```
+thislist = ["pear", "lychee", "apple"]
+for x in range(len(thislist)):
+    print(thislist[x])
+
+run
+
+pear
+lychee
+apple
+```
+
+You can loop through the list items by using a `while` loop. Use the `len()` function to determine the length of the list, then start at 0 and loop your way through the list items by refering to their indexes. Always increase the index by 1 after each iteration.
+```
+thislist = ["plant", "fruit", "building"]
+x = 0
+while x < len(thislist):
+    print(thislist[x])
+    x = x + 1
+
+run
+
+plant
+fruit
+building
+```
+
+> Comprehend items
+
+Based on a list of fruits, you want a new list, containing only the fruits with the letter "a" in the name.
+Without list comprehension you will have to write a for statement with a conditional test inside:
+```
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+listwitha = []
+
+for x in fruits:
+    if "a" in x:
+        listwitha.append(x)
+
+print(listwitha)
+
+run
+
+['apple', 'banana', 'mango']
+```
+
+The same thing with only one line of code:
+```
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+listwithw = [x for x in fruits if "w" in x]
+print(listwithw)
+
+run
+
+['kiwi']
+```
+
+> Sort items
+
+Objects in a list have a `sort()` method that sort the items alphanumerically, ascending. Alphabetically:
+```
+mylist = ["¿","que", "esta", "pasando", "en", "este", "mundo", "?"]
+mylist.sort()
+print(mylist)
+
+run
+
+['?', 'en', 'esta', 'este', 'mundo', 'pasando', 'que', '¿']
+```
+
+Numerically:
+```
+mylist = [654,56465,4312,15468,7621,5,53,2,5,8,9]
+mylist.sort()
+print(mylist)
+
+run
+
+[2, 5, 5, 8, 9, 53, 654, 4312, 7621, 15468, 56465]
+```
+
+With the keyword argument `reverse = True` you can manipulate the sort into descending:
+```
+mylist = [654,56465,4312,15468,7621,5,53,2,5,8,9]
+mylist.sort(reverse = True)
+print(mylist)
+
+run
+
+[56465, 15468, 7621, 4312, 654, 53, 9, 8, 5, 5, 2]
+```
+
+Keyword argument `key = function` sorts the list based on how close the number is to 15468:
+```
+def myfunc(n):
+    return abs(n - 15468)
+
+mylist = [654,56465,4312,15468,7621,5,53,2,5,8,9]
+mylist.sort(key = myfunc)
+print(mylist)
+
+run
+
+[15468, 7621, 4312, 654, 53, 9, 8, 5, 5, 2, 56465]
+```
+
+> Copy items
+Using method `copy()`:
+```
+mylist = ["mouse","keyboard","monitor"]
+copy = mylist.copy()
+print(copy)
+
+run
+
+['mouse', 'keyboard', 'monitor']
+```
+
+Using method `list()`:
+```
+mylist = ["mouse","keyboard","monitor"]
+copy = list(mylist)
+print(copy)
+
+run
+
+['mouse', 'keyboard', 'monitor']
+```
+
+> Join two lists
+
+```
+list1 = ["a", "b", "c"]
+list2 = [1, 2, 3]
+
+list3 = list1 + list2
+print(list3)
+
+run
+
+['a', 'b', 'c', 1, 2, 3]
+```
+<br>
+
+Tuples
+========
 
 
 
