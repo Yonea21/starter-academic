@@ -1216,6 +1216,90 @@ run
 {'kyoto', 'heroshima'}
 ```
 
+Method `discard()` removes the specified item from the set. The value as a parameter is required:
+```
+fruits = {"mexico", "canada", "panama"}
+fruits.discard("canada")
+print(fruits)
+
+run
+
+{'mexico', 'panama'}
+```
+
+Method `intersection()` returns a set that contains the item that extists in both sets x and y. At least one value as a parameter is required. You can search for as many equal items you like:
+```
+x = {"mexico", "canada", "panama"}
+y = {"germany", "namibia", "canada"}
+z = x.intersection(y)
+print(z)
+
+run
+
+{'canada'}
+```
+
+Method `interseciton_update()` removes the unwanted items from the original set:
+```
+x = {"mexico", "canada", "panama"}
+y = {"germany", "namibia", "canada"}
+z = {"cuba", "india", "canada"}
+x.intersection_update(y, z)
+print(x)
+
+run
+
+{'canada'}
+```
+
+Method `isdisjoint()` returns `True` if no items are present in the amount of compared sets, therwise `False`. The value as a parameter is required:
+```
+x = {"mexico", "canada", "panama"}
+y = {"germany", "namibia", "canada"}
+print(x.isdisjoint(y))
+
+run
+
+False
+```
+
+or
+
+```
+x = {"mexico", "canada", "panama"}
+y = {"germany", "namibia", "honduras"}
+print(x.isdisjoint(y))
+
+run
+
+True
+```
+
+Method `issubset()` returns `True` if all items in the set exit in the specified set, otherwise `False`. The value as a parameter is required:
+```
+x = {"a", "b", "c"}
+y = {"f", "e", "d", "c", "b", "a"}
+print(x.issubset(y))
+
+run
+
+True
+```
+
+or
+
+```
+x = {"a", "b", "c"}
+y = {"f", "e", "d", "c", "b", "a"}
+print(y.issubset(x))
+
+run
+
+False
+```
+
+Method `issuperset()` returns True if all items in the specified set exists in the oiginal set, otherwise `False`. The value as a parameter is required:
+
 
 
 
