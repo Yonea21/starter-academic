@@ -1321,7 +1321,83 @@ run
 True
 ```
 
-Method `pop()` removes a random item from the set.:
+Method `pop()` removes a random item from the set:
+```
+brands = {"nike", "puma", "adidas"}
+brands.pop()
+print(brands)
+
+run
+
+{'puma', 'nike'}
+```
+
+Method `remove()` removes a specified item and therefore requires a value as a parameter:
+```
+brands = {"nike", "puma", "adidas"}
+brands.remove("puma")
+print(brands)
+
+run
+
+{'adidas', 'nike'}
+```
+
+Method `symmetric_difference()` returns a set that contains all items from both sets, but not the items that are present in both sets. The parameter `set` is required. `set.symmetric_difference(set)`:
+```
+x = {"nike", "puma", "adidas"}
+y = {"puma", "cheetah","tiger"}
+z = x.symmetric_difference(y)
+print(z)
+
+run
+
+{'tiger', 'nike', 'cheetah', 'adidas'} #logically it removed the symmetric diffrence that would be "puma" in this case
+```
+
+Method `symmetric_difference_update()` updates the original set by removing identical items. This method also requires the parameter `set`:
+```
+x = {"nike", "puma", "adidas"}
+y = {"puma", "cheetah","tiger"}
+x.symmetric_difference_update(y)
+print(x)
+
+run
+
+{'adidas', 'nike', 'tiger', 'cheetah'}
+```
+
+Method `union()` returns a set that contains all items from the original set influding items from the specifed set(s). The specification can be any iterable object. If an item is present in more than one set, the output will show only one appearance of this item:
+```
+x = {"a", "b", "c"}
+y = {"f", "d", "a"}
+z = {"c", "d", "e"}
+result = x.union(y, z)
+print(result)
+
+run
+
+{'d', 'f', 'c', 'b', 'e', 'a'}
+```
+
+Method `update()` updates the current set, by adding items from another set or any other iterable. `set`is required as a parameter:
+```
+x = {"nike", "puma", "adidas"}
+y = {"puma", "cheetah","tiger"}
+x.update(y)
+print(x)
+
+run
+
+{'tiger', 'nike', 'adidas', 'puma', 'cheetah'}
+```
+
+<br>
+
+Dictionary
+==========
+
+![Dictionary](dictionary.jpg "<b>Dictionary</b> (Photo by Pisit Heng on Unsplash)")
 
 
 
