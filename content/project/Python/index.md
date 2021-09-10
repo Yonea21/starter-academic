@@ -654,7 +654,7 @@ run
 <br>
 
 **Array**  
-The sum of two lists:
+The sum of two arrays:
 ```
 first = [1,2,3,4,5]
 second = [6,7,8,9,10]
@@ -1299,7 +1299,29 @@ False
 ```
 
 Method `issuperset()` returns True if all items in the specified set exists in the oiginal set, otherwise `False`. The value as a parameter is required:
+```
+x = {"a", "b", "c"}
+y = {"f", "e", "d", "c", "b", "a"}
+print(x.issuperset(y))
 
+run
+
+False
+```
+
+or
+
+```
+x = {"a", "b", "c"}
+y = {"f", "e", "d", "c", "b", "a"}
+print(y.issuperset(x))
+
+run
+
+True
+```
+
+Method `pop()` removes a random item from the set.:
 
 
 
