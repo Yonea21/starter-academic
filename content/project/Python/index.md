@@ -1399,5 +1399,153 @@ Dictionary
 
 ![Dictionary](dictionary.jpg "<b>Dictionary</b> (Photo by Pisit Heng on Unsplash)")
 
+Dictionaries are written with curly brackets, have keys and values. Dictionaries are used to store date values in key. Dict items are structured, chagneable, and do not wllow duplicates. They are presented in key:value paris and are being referred to by using the key name.
+
+<br>
+
+> Empty list
+
+```
+people = {'list':[]}
+print(people)
+
+run
+
+{'list': []}
+```
+```
+people = {'list':[]}
+list = people.pop('list')
+print(list)
+
+run
+
+[]
+```
+
+<br>
+
+> Editing the list
+
+```
+people = {'Name': 'Koch', 'First name':'Yonea', 'Age':21, 'list':[]}
+print(people)
+
+run
+
+{'Name': 'Koch', 'First name': 'Yonea', 'Age': 21, 'list': []}
+```
+
+<br>
+
+> Joining two dicts
+
+```
+people = {'Name': 'Koch', 'First name':'Yonea', 'Age':21, 'list':[]}
+people['Class'] = ['Math', 'JavaF']
+print(people)
+
+run
+
+{'Name': 'Koch', 'First name': 'Yonea', 'Age': 21, 'list': [], 'Class': ['Math', 'JavaF']}
+```
+
+<br>
+
+> Why are dicts better than lists?
+
+So, dictionary is faster because you used a better algorithm. The reason is because a dictionary is a lookup, while a list is an iteration. Dictionary uses a hash lookup, while your list requires walking through the list until it finds the result from beginning to the result each time.
+
+<br>
+
+> Dicts methods
+
+Method `clear()` removes all the elements from the dictionary. There are no parameters required:
+```
+thisdict = {"name": "Laura", "brand": "nike", "year": 1997}
+thisdict.clear()
+print(thisdict)
+
+run
+
+{}
+```
+
+Method `copy()` returns a copy of the dictionary. There are no parameters required:
+```
+thisdict = {"name": "Laura", "brand": "nike", "year": 1997}
+thisdict.copy()
+print(thisdict)
+
+run
+
+{'name': 'Laura', 'brand': 'nike', 'year': 1997}
+```
+
+Method `fromkeys()` returns a dictionary with the specified keys and values. Parameters such as key and value are required:
+```
+x = ('key1', 'key2', 'key3')
+y = 0
+thisdict = dict.fromkeys(x,y)
+print(thisdict)
+
+run
+
+{'key1': 0, 'key2': 0, 'key3': 0}
+```
+
+Method `get()` returns the value of the specified key. (To access an item.) Parameters such as keyname and value are required:
+```
+thisdict = {'name':'Yonea', 'food':'Arepa', 'movie':'Star Wars'}
+print(thisdict.get('food'))
+
+run
+
+Arepa
+```
+
+Method `items()` returns a list containing a tuple for each key value pair. There are no parameters required:
+```
+thisdict = {'name':'Yonea', 'food':'Arepa', 'movie':'Star Wars'}
+print(thisdict.items())
+
+run
+
+dict_items([('name', 'Yonea'), ('food', 'Arepa'), ('movie', 'Star Wars')])
+```
+
+Method `keys()` returns a list containing the dictionary's keys. There are no parameters required:
+```
+thisdict = {'name':'Yonea', 'food':'Arepa', 'movie':'Star Wars'}
+print(thisdict.keys())
+
+run
+
+dict_keys(['name', 'food', 'movie'])
+```
+
+Method `pop()` removes the element with the specified key. Parameter keyname is required:
+```
+thisdict = {'name':'Yonea', 'food':'Arepa', 'movie':'Star Wars'}
+thisdict.pop('food')
+print(thisdict)
+
+run
+
+{'name': 'Yonea', 'movie': 'Star Wars'} #either shows your dict with the removed pop
+```
+```
+thisdict = {'name':'Yonea', 'food':'Arepa', 'movie':'Star Wars'}
+print(thisdict.pop('food'))
+
+run
+
+Arepa #or shwos the specified pop
+```
+
+Method `popitem()` removes the last inserted key-value pair. There are no parameters required:
+```
+
+
 
 
