@@ -1545,6 +1545,57 @@ Arepa #or shwos the specified pop
 
 Method `popitem()` removes the last inserted key-value pair. There are no parameters required:
 ```
+thisdict = {'name':'Yonea', 'food':'Arepa', 'movie':'Star Wars'}
+print(thisdict.popitem())
+
+run
+
+('movie', 'Star Wars')
+```
+
+Method `setdefault()` Returns the value of the specified key. If the key doesn't exist, insert the key, with the specified value. Parameter keyname is required:
+```
+#Get the value of the "color" item, if the "color" item does not exist, insert "color" with the value "white"
+thisdict = {'name':'Yonea', 'food':'Arepa', 'movie':'Star Wars'}
+x = thisdict.setdefault('color','White')
+print(x)
+
+run
+
+White
+```
+
+Method `update()` updates the dictionary with the specified key-value pairs. An iterable as a parameter value is required:
+```
+thisdict = {'name':'Yonea', 'food':'Arepa', 'movie':'Star Wars'}
+thisdict.update({'color':'Fuchsia'})
+print(thisdict)
+
+run
+
+{'name': 'Yonea', 'food': 'Arepa', 'movie': 'Star Wars', 'color': 'Fuchsia'}
+```
+
+![Fuchsia](fuchsia.jpg "<b>Fuchsia</b> (Photo by Kseniya Lapteva on Unsplash)")
+
+Method `values()` returns a list of all values in the dicitonary. There are no parameters required:
+```
+thisdict = {'name':'Yonea', 'food':'Arepa', 'movie':'Star Wars'}
+x = thisdict.values()
+thisdict['movie'] = 'Grease'
+print(x)
+
+run
+
+dict_values(['Yonea', 'Arepa', 'Grease'])
+```
+<br>
+
+File
+=====
+
+
+
 
 
 
