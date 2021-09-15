@@ -901,6 +901,8 @@ fruit
 building
 ```
 
+![Python](pythonfoto.jpg "<b>Python</b> (Photo by RoonZ on Unsplash)")
+
 > Comprehend items
 
 Based on a list of fruits, you want a new list, containing only the fruits with the letter "a" in the name.
