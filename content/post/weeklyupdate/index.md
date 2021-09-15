@@ -87,7 +87,22 @@ On friday we had our teammeeting. Xavier and I had to tell about our first three
 
 09/01/21 - 09/03/21
 =====================
-School, School, School! I learned that having six modules is pretty tough. I had a short crisis, but everybody had. I stay positiv and make the best out of my days. Right now I'm creating a website for a pizzeria on the basis of GitHub and Webstorm. It's due to next monday. We also have a huge assignment in `basics of technical informatcis` due then. It's about understanding the Johnny Simulator, following through related tasks and record the steps in a documentation.
+School, School, School! I learned that having six modules is pretty tough. I stay positiv and make the best out of my days. Right now I'm creating a website for a pizzeria on the basis of GitHub and Webstorm. It's due to next monday. We also have a huge assignment in `basics of technical informatcis` due then. It's about understanding the Johnny Simulator, following through related tasks and record the steps in a documentation.
 
 ![Assignment](paper.jpg "<b>Assignment</b> (Unsplash: Sigmund)")
+
+Together with Dominik we created several offers. After the exchange of requirements for PC's and servers we created offers for the module. Subsequently Xavier and I had the opportunity to call Omero. He expalined us the whole process regarding offers and orders for customers. 
+
+<br>
+
+09/08/21 - 09/10/21
+====================
+We began working on the module 2. Python. I realized that learning the basics takes its time. Another challenge is to not confuse Python with the similar programming language Java. (We currently learn Java in school.) Python is a so called dynamic programming language and is simpler in syntax in contrast to java. 
+
+
+<br>
+
+09/15/21 - 09/17/21
+======================
+On wednseday we had a Briefing with Melanie to get an overview about the upcoming .Next event.
 
