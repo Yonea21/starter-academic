@@ -104,5 +104,5 @@ We began working on the module 2. Python. I realized that learning the basics ta
 
 09/15/21 - 09/17/21
 ======================
-On wednseday we had a Briefing with Melanie to get an overview about the upcoming .Next event.
+On wednseday we had a Briefing with Melanie to get an overview about the upcoming DotNext event. Xavier and I became responsible for its organisation. On top of that we also got the responsibility for Emma. She is a 14 year old girl that wants to get to know Amanox. From her school she got the task to find a company that shows her around and introduces her to her dreamjob. She chose IT. In two days Xavier and I are planning her programm and tasks she'll do here. That's kind of a challenge. Challenge accepted. In real life, as an adult you sometimes are confronted with such stressful situations with clients perhaps. 
 
