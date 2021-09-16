@@ -99,10 +99,14 @@ Together with Dominik we created several offers. After the exchange of requireme
 ====================
 We began working on the module 2. Python. I realized that learning the basics takes its time. Another challenge is to not confuse Python with the similar programming language Java. (We currently learn Java in school.) Python is a so called dynamic programming language and is simpler in syntax in contrast to java. 
 
+![Java](java.jpg "<b>Java</b> (Unsplash: Michiel Leunens)")
+
 
 <br>
 
 09/15/21 - 09/17/21
 ======================
-On wednseday we had a Briefing with Melanie to get an overview about the upcoming DotNext event. Xavier and I became responsible for its organisation. On top of that we also got the responsibility for Emma. She is a 14 year old girl that wants to get to know Amanox. From her school she got the task to find a company that shows her around and introduces her to her dreamjob. She chose IT. In two days Xavier and I are planning her programm and tasks she'll do here. That's kind of a challenge. Challenge accepted. In real life, as an adult you sometimes are confronted with such stressful situations with clients perhaps. 
+On wednseday we had a Briefing with Melanie to get an overview about the upcoming DotNext event. Xavier and I became responsible for its organisation. On top of that we also got the responsibility for Emma. She is a 14 year old girl that wants to get to know Amanox. From her school she got the task to find a company that shows her around and introduces her to her dreamjob. She chose IT. In two days Xavier and I are planning her programm and tasks she'll do here. That's kind of a challenge. Challenge accepted. In real life, as an adult, you sometimes are confronted with such stressful situations with clients perhaps. They demand and you need to deliver. Therefore it's good to learn how to deal with these situations at a young age and get wrinkles sooner.
+
+All those tasks mean no time for python.
 
