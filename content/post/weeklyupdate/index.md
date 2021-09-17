@@ -108,5 +108,11 @@ We began working on the module 2. Python. I realized that learning the basics ta
 ======================
 On wednseday we had a Briefing with Melanie to get an overview about the upcoming DotNext event. Xavier and I became responsible for its organisation. On top of that we also got the responsibility for Emma. She is a 14 year old girl that wants to get to know Amanox. From her school she got the task to find a company that shows her around and introduces her to her dreamjob. She chose IT. In two days Xavier and I are planning her programm and tasks she'll do here. That's kind of a challenge. Challenge accepted. In real life, as an adult, you sometimes are confronted with such stressful situations with clients perhaps. They demand and you need to deliver. Therefore it's good to learn how to deal with these situations at a young age and get wrinkles sooner.
 
-All those tasks mean no time for python.
+All those tasks mean no time for python module. Xavier and I finally created in a short amount of time, the programm for Emma. On Monday we will take her to the university. She told us that she always wanted to visit the university to see how it is. But due to covid-19 we only can take her in the morning. We will have Web Fundamentals as a subject witch Christian as our teacher. Christian will give me and Laura his feedback regarding our HTML framework, that we created and submitted as early done homework. That's good, so Emma can already see a bit about HTML, that I will show her more detailed on wednesday the same week. But to that later.
+
+On tuesday she'll have the first day @Amanox. Rafael prepared a welcome workshop. Xavier and I will show her the building afterwards. We also will introduce her to the trainee diary, so she seas approximately where she is going to create projects and document her progress. In the following afternoon She will be learning Python with Xavier. 
+
+The lunchbrakes will be decorated with Mariokart-Cups of course. 
+
+![Mariokart](mario.jpg "<b>Mariokart</b> (Unsplash: Ravi Palwe)")
 
