@@ -116,3 +116,5 @@ The lunchbrakes will be decorated with Mariokart-Cups of course.
 
 ![Mariokart](mario.jpg "<b>Mariokart</b> (Unsplash: Ravi Palwe)")
 
+Wednesday will be the great dotNext webinar. We will probably have a look there. Otherwise I'll guide her through some HTML-tasks and show her CSS. Gladly on thursday we could arrange Kiru and Jim to help us out for looking out after Emma. Jim will show her some electrical magic and Kiru VM. Lastly but not least, on friday, we will be accompanied by Ruben and Armstrong to show us our datacenter. This will be exciting!
+
