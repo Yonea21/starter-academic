@@ -1703,7 +1703,7 @@ os.remove("demofile.txt")
 
 run (check printscreen below)
 ```
-![Printscreen](demofile.JPG "<b>Printscreen</b>")
+![Printscreen](demofile.jpg "<b>Printscreen</b>")
 
 You may check if the file exists, before you delete it:
 ```
