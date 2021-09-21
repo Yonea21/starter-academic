@@ -1724,10 +1724,65 @@ import os
 os.rmdir("myfolder")
 ```
 
+> Difference between rt / rb
+
+rt:
+```
+f = open("demofile.txt", "rt")
+print(f)
+
+run
+
+<_io.TextIOWrapper name='demofile.txt' mode='rt' encoding='cp1252'>
+```
+
+rb:
+```
+f = open("demofile.txt", "rb")
+print(f)
+
+run
+
+<_io.BufferedReader name='demofile.txt'>
+```
+
+> newfile.txt content: "Hello"
+
+Appending content:
+```
+f = open("newfile.txt", "a")
+f.write(" World")
+f.close()
+f = open("newfile.txt", "r")
+print(f.read())
+
+run
+
+Hello World
+```
+
+> Deleting newfile.txt
+
+```
+import os
+os.remove("newfile.txt")
+```
+
 <br>
 
-asdf
-=====
+Operators
+==========
+
+> Arithmetic Operators
++ Addition "+"
++ Subtraction "-"
++ Multiplication "*"
++ Division "/"
++ Floor Division "//"
++ Modulus "%"
++ Exponentiation "**"
+
+
 
 
 
