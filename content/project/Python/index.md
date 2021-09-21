@@ -1953,9 +1953,6 @@ print("string"%False) run Error
 print("string"%True) run Error
 ```
 
-
-
-
 What happens if you combine datatypes? `5*"lol"`:
 
 ```
@@ -1966,5 +1963,91 @@ run
 
 lollollollollol
 ```
+
+<br>
+
+> Relational Operators
+
++ Lesser than `<`
++ Greater than `>`
++ Lesser/Equal than `<=`
++ Greater/Equal than `>=`
++ Equals `==`
++ Not Equals `!=`
+
+> Testing all operators
+
+Integer/Float:
+```
+print(3<1) run False
+print(3>1) run True
+print(3<=1) run False
+print(3>=1) run True
+print(3==1) run False
+print(3!=1) run True
+```
+
+String:
+```
+print("Hello"<"HeLLo") run False
+print("Hello">"HeLLo") run True
+print("Hello"<="HeLLo") run False
+print("Hello">="HeLLo") run True
+print("Hello"=="HeLLo") run False
+print("Hello"!="HeLLo") run True
+```
+
+Boolean:
+```
+print(True<True) run False
+print(True>True) run False
+print(True<=True) run True
+print(True>=True) run True
+print(True==True) run True
+print(True!=True) run False
+#same output with False False
+```
+```
+print(True<False) run False
+print(True>False) run True
+print(True<=False) run False
+print(True>=False) run True
+print(True==False) run False
+print(True!=False) run True
+```
+```
+print(False<True) run True
+print(False>True) run False
+print(False<=True) run True
+print(False>=True) run False
+print(False==True) run False
+print(False!=True) run True
+```
+
+Different collectiontypes:
+```
+print(True<"Hello") run Error
+print(True<5) run True
+print(False<5) run True
+print(False==0) run True
+print(True!=0) run True
+print("Hello"==5) run False
+print("5"==5) run False 
+```
+
+Relational Operators have a boolean output `True` and `False`.
+
+<br>
+
+Assignment Operators
+================
+
+
+
+
+
+
+
+
 
 
