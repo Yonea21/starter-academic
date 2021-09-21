@@ -1596,6 +1596,49 @@ dict_values(['Yonea', 'Arepa', 'Grease'])
 File
 =====
 
+Python has several functions for creating, reading, updating, and deleting files. 
+
+> File Handling
+
++ The `open()` function requires two parameters *filename* and *mode*. There are four different *modes* for opening a file:
+
+`r` opens a file for reading. Error if the file doesn't exist.
+`a` opens a file for appending. Creates the file if it doesn't exist.
+`w` opens a file for writing. Creates the file if it doesn't exist.
+`x` creates the specified file. Error if the file doesn't exist.
+
++ Additional you can specifiy if the file should be handled as binary or text mode:
+
+`t` := text mode
+`b` := binary mode
+
+**Syntax**
+To open a file only for reading, it is enough to set the files name:
+```
+f = open("demofile.tx")
+
+equals
+
+f = open("demofile.txt", "rt")
+```
+`r` stands for read and `t`for text.
+
+<br>
+
+> Read Files
+
+asdf
+<br>
+
+> Write/Create Files
+
+asdf
+<br>
+
+> Delete Files
+
+asdf
+<br>
 
 
 
