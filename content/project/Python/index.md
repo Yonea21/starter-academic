@@ -1933,7 +1933,23 @@ print("string"**False) run Error
 print("string"**True) run Error
 ```
 ```
-
+print(5//"string") run Error
+print(5//True) run 1
+print(True//5) run 0
+print(5//False) run Error
+print(False//5) run 0
+print("string"//False) run Error
+print("string"//True) run Error
+```
+```
+print(5%"string") run Error
+print(5%True) run 0
+print(True%5) run 1
+print(5%False) run Error
+print(False%5) run 0
+print("string"%False) run Error
+print("string"%True) run Error
+```
 
 
 
