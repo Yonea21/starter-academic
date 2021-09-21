@@ -1881,6 +1881,8 @@ print(False**False) run 1
 print(True**True) run 1
 print(False**True) run 0
 ```
+![print](print.jpg "<b>print</b> (Photo by Claudio Schwarz on Unsplash)")
+
 ```
 print(True//False) run Error
 print(False//False) run Error
