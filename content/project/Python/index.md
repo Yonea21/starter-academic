@@ -1782,6 +1782,175 @@ Operators
 + Modulus "%"
 + Exponentiation "**"
 
+> Testing all Operators
+
+Integer/Float:
+```
+a=1+1
+print(a) #addition
+
+b=1.5-0.3
+print(b) #subtraction
+
+c=75.5/0.3
+print(c) #division
+
+d=5*7.3
+print(d) #multiplication
+
+e=2**32
+print(e) #exponentiation
+
+f=7//3
+print(f) #floor division
+
+g=3%2
+print(g) #modulo
+
+run
+
+2
+1.2
+251.66666666666669
+36.5
+4294967296
+2
+1
+```
+
+String:
+```
+a="x"+"y"
+print(a) #addition
+
+b="x"-"y"
+print(b) #subtraction
+
+c="x"/"y"
+print(c) #division
+
+d="x"*"y"
+print(d) #multiplication
+
+e="x"**"y"
+print(e) #exponentiation
+
+f="x"//"y"
+print(f) #floor division
+
+g="x"%"y"
+print(g) #modulo
+
+run
+
+xy
+Traceback (most recent call last):
+  File "C:\Users\yonea\AppData\Local\Programs\Python\Python39\Module 2\Typetest.py", line 4, in <module>
+    b="x"-"y"
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+```
+
+Boolean:
+```
+print(True+False) run 1
+print(False+False) run 0
+print(True+True) run 2
+print(False+True) run 1
+```
+```
+print(True-False) run 1
+print(False-False) run 0
+print(True-True) run 0
+print(False-True) run -1
+```
+```
+print(True*False) run 0
+print(False*False) run 0
+print(True*True) run 1
+print(False*True) run 0
+```
+```
+print(True/False) run Error
+print(False/False) run Error
+print(True/True) run 1.0
+print(False/True) run 0.0
+```
+```
+print(True**False) run 1
+print(False**False) run 1
+print(True**True) run 1
+print(False**True) run 0
+```
+```
+print(True//False) run Error
+print(False//False) run Error
+print(True//True) run 1
+print(False//True) run 0
+```
+```
+print(True%False) run Error
+print(False%False) run Error
+print(True%True) run 0
+print(False%True) run 0
+```
+
+Different collectiontypes:
+```
+print(5+"string") run Error
+print(5+True) run 6 #5+1=6
+print(5+False) run 5 #5+0=5
+print("string"+True) run Error
+```
+```
+print(5-"string") run Error
+print(5-True) run 4 #5-1=4
+print(5-False) run 5 #5-0=5
+print("string"-True) run Error
+```
+```
+print(5*"string") run stringstringstringstringstring
+print(5*True) run 5 #5*1=1
+print(5*False) run 0 #5*0=0
+print("string"*False) run "blank" #output is blank
+print("string"*True) run "string"
+```
+```
+print(5/"string") run Error
+print(5/True) run 5.0 #5/1=5.0
+print(True/5) run 0.2
+print(5/False) run Error
+print(False/5) run 0.0
+print("string"/False) run Error
+print("string"/True) run Error
+```
+```
+print(5**"string") run Error
+print(5**True) run 5 #5^1=5
+print(True**5) run 1
+print(5**False) run 1 #5^0=1
+print(False**5) run 0
+print("string"**False) run Error
+print("string"**True) run Error
+```
+```
+
+
+
+
+
+What happens if you combine datatypes? `5*"lol"`:
+```
+x=5*"lol"
+print(x)
+
+run
+
+lollollollollol
+```
+
+
+
+
 
 
 
