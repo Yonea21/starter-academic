@@ -1621,21 +1621,76 @@ equals
 
 f = open("demofile.txt", "rt")
 ```
-`r` stands for read and `t`for text.
+`r` stands for read and `t`for text. Make sure the file exists, or else you will get an error. 
 
 <br>
 
 > Read Files
 
-asdf
+We have located demofile.txt in the same folder as python. We open it using the `open()` fnction and `read()`method for accessing the files content:
+```
+f = open("demofile.txt")
+print(f.read())
+
+run
+
+Hello! Welcome to demofile.txt
+This file is for testing purposes.
+Good Luck!
+```
+If your document is located elsewhere you can specify the path. 
+
 <br>
 
 > Write/Create Files
 
-asdf
+To write to an existing file, you must add a parameter to the `open()` function:
+`a` will append to the end of the file
+`w` will overwrite any existing content
+
+Appending content to the file:
+```
+f = open("demofile2.txt", "a")
+f.write("Now the file has more content!")
+f.close()
+f = open("demofile2.txt", "r")
+print(f.read())
+
+run
+
+Hello! Welcome to demofile.txt
+This file is for testing purposes.
+Good Luck!Now the file has more content!
+```
+
+Overwriting the files content:
+```
+f = open("demofile3.txt", "w")
+f.write("Woops! I have deleted the content!")
+f.close()
+f = open("demofile3.txt", "r")
+print(f.read())
+
+run
+
+Woops! I have deleted the content! #originally it had the same content as demofile but got completly overwrited
+```
+
+Creating a file called "myfile.txt":
+```
+f = open("myfile.txt", "x")
+
+run (check printscreen below)
+```
+![Printscreen](myfile.JPG "<b>Printscreen</b>")
+
+
+
+
 <br>
 
 > Delete Files
+
 
 asdf
 <br>
