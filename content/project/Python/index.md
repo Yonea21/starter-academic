@@ -1955,6 +1955,7 @@ print("string"%True) run Error
 
 
 What happens if you combine datatypes? `5*"lol"`:
+
 ```
 x=5*"lol"
 print(x)
@@ -1963,15 +1964,5 @@ run
 
 lollollollollol
 ```
-
-
-
-
-
-
-
-
-
-
 
 
