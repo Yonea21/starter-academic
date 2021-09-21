@@ -1678,22 +1678,56 @@ Woops! I have deleted the content! #originally it had the same content as demofi
 
 Creating a file called "myfile.txt":
 ```
-f = open("myfile.txt", "x")
+f = open("myfile.txt", "x") #a new empty file is created
 
 run (check printscreen below)
 ```
 ![Printscreen](myfile.JPG "<b>Printscreen</b>")
 
 
-
+Creating a new file if it doesn't exist:
+```
+f = open("myfile.txt", "w")
+```
 
 <br>
 
 > Delete Files
 
+To delete a file, you must import the OS module, and run its `os.remove()` function.
+
+Remove the file "demofile.txt":
+```
+import os
+os.remove("demofile.txt")
+
+run (check printscreen below)
+```
+![Printscreen](demofile.JPG "<b>Printscreen</b>")
+
+You may check if the file exists, before you delete it:
+```
+import os
+if os.path.exists("demofile.txt"):
+  os.remove("demofile.txt")
+else:
+  print("The file does not exist")
+
+  run
+
+The file does not exist
+```
+
+Method `os.rmdir()` deletes an entire folder. You only can remove empty fodlers:
+```
+import os
+os.rmdir("myfolder")
+```
+
+<br>
 
 asdf
-<br>
+=====
 
 
 
