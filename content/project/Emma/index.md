@@ -97,3 +97,106 @@ Mock up
 ===
 I created my first Mock up. Here is an example of my feedback page.
 ![Mock up](mockup.jpg "<b>Mock up</b> (Screenshot)")
+
+HTML Quiz
+====
+> What is the correct HTML for adding a background color?
+```
+<body style="background-color:yellow;"> 
+```
+
+> Choose the correct HTML element to define important text?
+```
+<strong>
+```
+
+> How can you open a link in a new tab/browser window?
+```
+<a href='url target='new'>
+```
+
+> Which of these elements are all <table> elements?
+```
+<table> <tr> <td>
+```
+
+> Inline elements are normally displayed without starting a new line.
+```
+True
+```
+
+>How can you make a numbered list?
+```
+<ol>
+```
+
+> What is the correct HTML for making a drop-down list?
+```
+<select>
+```
+
+> What is the correct HTML for making a text area?
+```
+<textarea>
+```
+
+> What is the correct HTML for inserting an image?
+```
+<img scr="immage.gif" alt="Mylmage">
+```
+
+> What is the correct HTML for inserting a background image?
+```
+<body style="background-image:url(background.gif")>
+```
+
+> An <iframe> is used to display a web page within a web page.
+```
+True
+```
+
+> Which doctype is correct for HTML5?
+```
+<!DOCTYPE html>
+```
+
+> The HTML global attribute, "contenteditable" is used to:
+```
+Specify whether the content of an element should be editable or not
+```
+
+> In HTML, onblur and onfocus are:
+```
+Event attributes
+```
+
+> Graphics defined by SVG is in which format?
+```
+XML
+```
+
+> The HTML <canvas> element is used to:
+```
+draw graphics
+```
+
+> Which input type defines a slider control?
+```
+range
+```
+
+> Which HTML element is used to display a scalar measurement within a range?
+```
+<meter>
+```
+
+> In HTML, what does the <aside> element define?
+```
+Content aside from the page content
+```
+
+> Which HTML element is used to specify a header for a document or section?
+```
+<header>
+```
+
