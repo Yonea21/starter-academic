@@ -51,3 +51,45 @@ Hallo := normal
 *Hallo* := kursiv
 
 <br>
+
+Form
+=====
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Übung aus PVA1">
+  <meta name="keywords" content="FFHS, BestTeacher">
+  <title>Übung Forms - PVA1</title>
+</head>
+<body>
+<form action=”yonea.koch@amanox.ch”>
+  <label>
+    Vorname <br>
+    <input id="fname" placeholder="Vorname" pattern="[a-zA-zäöüÄÖÜ]{2,}" required/><br>
+  </label> <br>
+  <label>
+    Nachname <br>
+    <input id="lname" placeholder="Nachname" pattern="[a-zA-zäöüÄÖÜ]{2,}" required/><br>
+  </label> <br>
+  <label>  
+    E-Mail <br>
+    <input type="email" id="mail" placeholder="E-Mail-Adresse" pattern="\{@}" required/> <br>
+  </label> <br>
+  <label>
+    Buchungsdatum <br>
+    <input type="date" id="orderdate" required/><br>
+  </label> <br>
+  <label>
+    Telefonnummer <br>
+    <input type="tel" id="tel" placeholder="Telefonnummer"/><br>
+  </label> <br>
+  <label>
+    Postleitzahl <br>
+    <input id="plz" placeholder="Postleitzahl" pattern="\d{4}" required/><br>
+  </label> <br>
+  <input type="submit" id="submit" pattern="yonea.koch@amanox.ch"/>
+</form>
+</body>
+</html>
+
