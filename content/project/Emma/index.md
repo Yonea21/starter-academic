@@ -121,7 +121,7 @@ HTML Quiz
 ```
 <br>
 
-> Which of these elements are all <table> elements?
+> Which of these elements are all `<table>` elements?
 ```
 <table> <tr> <td>
 ```
@@ -163,7 +163,7 @@ True
 ```
 <br>
 
-> An <iframe> is used to display a web page within a web page.
+> An `<iframe>` is used to display a web page within a web page.
 ```
 True
 ```
@@ -193,7 +193,7 @@ XML
 ```
 <br>
 
-> The HTML <canvas> element is used to:
+> The HTML `<canvas>` element is used to:
 ```
 draw graphics
 ```
@@ -211,7 +211,7 @@ range
 ```
 <br>
 
-> In HTML, what does the <aside> element define?
+> In HTML, what does the `<aside>` element define?
 ```
 Content aside from the page content
 ```
