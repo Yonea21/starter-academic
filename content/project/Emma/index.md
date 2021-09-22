@@ -93,3 +93,7 @@ Form
 </body>
 </html>
 
+Mock up
+===
+I created my first Mock up. Here is an example of my feedback page.
+![Mock up](mockup.jpg "<b>Mock up</b> (Screenshot)")
