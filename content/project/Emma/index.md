@@ -35,3 +35,7 @@ Trying out formatting with Markdown
 Hallo := normal  
 **Hallo** := fettgedruckt  
 *Hallo* := kursiv  
+
+Hallo := normal<br>
+**Hallo** := fettgedruckt<br>  
+*Hallo* := kursiv<br>
