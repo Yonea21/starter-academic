@@ -32,6 +32,6 @@ Trying out formatting with Markdown
 ======
 #### Heading 4
 ## Heading 2
-Hallo := normal
-**Hallo** := fettgedruckt
-*Hallo* := kursiv
+Hallo := normal  
+**Hallo** := fettgedruckt  
+*Hallo* := kursiv  
