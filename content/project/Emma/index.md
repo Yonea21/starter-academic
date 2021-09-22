@@ -41,8 +41,13 @@ Hallo := normal <br>
 *Hallo* := kursiv <br>
 
 Hallo := normal
+
 <br>
+
 **Hallo** := fettgedruckt
+
 <br>
+
 *Hallo* := kursiv
+
 <br>
