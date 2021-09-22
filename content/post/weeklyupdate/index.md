@@ -122,3 +122,4 @@ Wednesday will be the great dotNext webinar. We will probably have a look there.
 
 09/21/21 - 09/24/21
 ==================
+In the beginnig of this week we introduced Emma to our company. Everything worked as planned. Rafael introduced her this morning with a powerpoint presentation about the company and what Amanox does. Xavier and I 
