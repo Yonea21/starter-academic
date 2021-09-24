@@ -2042,7 +2042,7 @@ Relational Operators have a boolean output `True` and `False`.
 Assignment Operators
 ================
 
-If you assing a variable only with `=`, the value inside will be overwritten.
+If you assigne a variable only with `=`, the value inside will be overwritten.
 + assign `=`
 + add and assign `+=`
 + subtract and assign `-=`
@@ -2051,6 +2051,8 @@ If you assing a variable only with `=`, the value inside will be overwritten.
 + modulus and assign `%=`
 + exponent and assign `**=`
 + floor-divide and assign `//=`
+
+
 
 
 
