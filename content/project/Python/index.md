@@ -2116,9 +2116,36 @@ Arithmetic Operators
 =====================
 
 > Difference between `3!=3` and `not 3==3`
+The only difference is the syntax. The ouptut is `False`.
+
+> 3 is bigger than 7 or 7 is bigger than 3
+```
+print(3>7)
+print(7>3)
+
+run
+
+False
+True
+```
+
+> additional type(“5”) equals str
+
+> or give true out if 7 equals 3
+
+> The result of this one condition should be True
+
 
 3==3 and 1>0 = True
 3== and 1>2 = False
+
+
+State Machines and Algorithms
+=============================
+
+An Algorithm is a procedure of operations. A state machine is a mofel of statechanges through an algorithm. In `finite State machines` there are n-possible states to change to. `Infinite State Machines` have infinite states to change to.
+
+
 
 
 
