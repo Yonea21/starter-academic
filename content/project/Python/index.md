@@ -2092,10 +2092,34 @@ a//=b
 a&=b
 ```
 
-|= Performs Bitwise OR on operands and assigns value to left operand:
+`|=` Performs Bitwise OR on operands and assigns value to left operand:
 ```
 a|=b
 ```
+
+`^=` Performs Bitwise xOR on operands and assigns value to left operand:
+``
+a^=b
+```
+
+`>>=` Performs Bitwise right shift on operands and assigns value to left operand:
+```
+a>>=b
+```
+
+`<<=` Performs Bitwise left shift on operands and assigns value to left operand:
+```
+a<<=b
+```
+
+Arithmetic Operators
+=====================
+
+> Difference between `3!=3` and `not 3==3`
+
+3==3 and 1>0 = True
+3== and 1>2 = False
+
 
 
 
