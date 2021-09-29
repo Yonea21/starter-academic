@@ -2173,7 +2173,9 @@ An Algorithm is a procedure of operations. A state machine is a mofel of statech
 ![Deterministic](deterministic5.jpg "<b>Deterministic</b> (Screenshot)")
 
 
+> State machine representing vending machine for drinks
 
+![State machine](vending.png "<b>State machine</b> (draw.io)")
 
 
 
