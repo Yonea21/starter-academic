@@ -2150,6 +2150,27 @@ An Algorithm is a procedure of operations. A state machine is a mofel of statech
 ![Definition](definition.jpg "<b>definition</b> (Screenshot)")
 
 
+> Deterministic or non-deterministic?
+
+![Non-Deterministic](deterministic1.jpg "<b>Non-Deterministic</b> (Screenshot)")
+
+![Non-Deterministic](nondeterministic2.jpg "<b>Non-Deterministic</b> (Screenshot)")
+
+![Non-Deterministic](nondeterministic3.jpg "<b>Non-Deterministic</b> (Screenshot)")
+
+![Non-Deterministic](nondeterministic4.jpg "<b>Non-Deterministic</b> (Screenshot)")
+
+![Non-Deterministic](nondeterministic5.jpg "<b>Non-Deterministic</b> (Screenshot)")
+
+![Non-Deterministic](nondeterministic6.jpg "<b>Non-Deterministic</b> (Screenshot)")
+
+![Deterministic](deterministic2.jpg "<b>Deterministic</b> (Screenshot)")
+
+![Deterministic](deterministic3.jpg "<b>Deterministic</b> (Screenshot)")
+
+![Deterministic](deterministic4.jpg "<b>Deterministic</b> (Screenshot)")
+
+![Deterministic](deterministic5.jpg "<b>Deterministic</b> (Screenshot)")
 
 
 
