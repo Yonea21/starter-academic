@@ -2668,3 +2668,10 @@ run
 2584
 4181
 ```
+
+<br>
+
+Random
+=========
+
+![Greetings](randomgreetings.jpg "<b>Greetings</b> (Screenshot)")
