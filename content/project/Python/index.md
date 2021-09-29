@@ -2145,7 +2145,7 @@ State Machines and Algorithms
 
 An Algorithm is a procedure of operations. A state machine is a mofel of statechanges through an algorithm. In `finite State machines` there are n-possible states to change to. `Infinite State Machines` have infinite states to change to.
 
-
+![Definition](definition.jpg "<b>definition</b> (Screenshot)")
 
 
 
