@@ -2117,6 +2117,7 @@ Arithmetic Operators
 =====================
 
 > Difference between `3!=3` and `not 3==3`
+
 The only difference is the syntax. The ouptut is `False`.
 
 > 3 is bigger than 7 or 7 is bigger than 3
@@ -2147,6 +2148,8 @@ State Machines and Algorithms
 An Algorithm is a procedure of operations. A state machine is a mofel of statechanges through an algorithm. In `finite State machines` there are n-possible states to change to. `Infinite State Machines` have infinite states to change to.
 
 ![Definition](definition.jpg "<b>definition</b> (Screenshot)")
+
+
 
 
 
