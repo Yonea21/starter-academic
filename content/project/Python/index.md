@@ -2052,8 +2052,50 @@ If you assigne a variable only with `=`, the value inside will be overwritten.
 + exponent and assign `**=`
 + floor-divide and assign `//=`
 
+`=` Assign value of right side of expression to left side operand:
+```
+x=y+z
+```
 
+`+=` Add right side operand with left side operand and then assign to left operand:
+```
+a+=b
+```
 
+`-=` Subtract right operand from left operand and then assign to left operand. True if both operands are equal:
+```
+a-=b
+```
+
+`*=` Multiply right operand with left operand and then assign to left operand:
+```
+a*=b
+```
+
+`/=` Divide left operand with right operand and then assign to left operand:
+```
+a/=b
+```
+
+`%=` Takes mofulus using left and right operands and assigns result to left operand:
+```
+a%=b
+```
+
+`//=` Divide left operand with right operand and then assigns the value (floor) to left operand:
+```
+a//=b
+```
+
+`&=` Performs Bitwise AND on operands and assigns value to left operand:
+```
+a&=b
+```
+
+|= Performs Bitwise OR on operands and assigns value to left operand:
+```
+a|=b
+```
 
 
 
