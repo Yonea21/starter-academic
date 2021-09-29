@@ -2669,11 +2669,93 @@ run
 4181
 ```
 
+```
+# Fibonacci Function that returns a list
+def fib(end_num):
+    a = 0
+    b = 1
+    list1 = [a, b]
+
+    while a + b <= end_num:
+        c = a + b
+        a = b
+        b = c
+        list1.append(c)
+
+    return print(list1)
+
+
+fib(50)
+
+run
+
+[0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+```
+
 <br>
 
 Random
 =========
 
 ![Greetings](randomgreetings.jpg "<b>Greetings</b> (Screenshot)")
+
+```
+import random
+
+colors = ['Red', 'Black', 'Green', 'Fuchsia', 'Blue']
+
+results = random.choices(colors, k=10)
+print(results)
+
+
+run
+
+['Blue', 'Black', 'Black', 'Green', 'Black', 'Fuchsia', 'Green', 'Green', 'Green', 'Fuchsia']
+```
+
+```
+import random
+
+colors = ['Red', 'Black', 'Green', 'Fuchsia', 'Blue']
+
+results = random.choices(colors, weights=[18, 18, 2, 3, 3], k=10)
+print(results)
+
+run
+
+['Fuchsia', 'Black', 'Black', 'Red', 'Red', 'Fuchsia', 'Red', 'Blue', 'Red', 'Red']
+```
+
+```
+import random
+
+deck = list(range(1, 53))
+
+random.shuffle(deck)
+print(deck)
+
+run
+
+[48, 36, 3, 18, 29, 40, 50, 52, 35, 10, 12, 1, 34, 15, 2, 11, 25, 14, 7, 20, 19, 38, 16, 4, 43, 8, 39, 46, 27, 41, 42, 21, 37, 32, 6, 44, 22, 28, 23, 31, 45, 24, 17, 5, 33, 49, 9, 51, 26, 47, 30, 13]
+```
+
+```
+import random
+
+deck = list(range(1, 53))
+
+hand = random.sample(deck, k=5)
+print(hand)
+
+run
+
+[9, 10, 33, 13, 12]
+```
+<br>
+
+Class and instances
+==================
+
+
 
 
