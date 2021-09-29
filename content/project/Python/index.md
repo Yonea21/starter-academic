@@ -2205,6 +2205,8 @@ An Algorithm is a procedure of operations. A state machine is a mofel of statech
 Conditions
 ==============
 
+Conditions are always based on a Boolean term `True`/`False`
+
 > If-Sentence (mandatory) => Initial condition to check
 For example if 8 == 8, it will triger the code inside the if​
 
@@ -2213,6 +2215,34 @@ For example if 8 == 9: BLABLA elif 8 == 8: BLABLA2​
 
 > Else-Sentence (optional) => Is triggered, when no conditions before are met​
 For example if 8 == 7: BLABLA elif 8 == 9: BLABLA2 else: BLABLA3
+
+
+**Example:**
+```
+testword = “Hello”​
+
+​
+
+If “Hello” not in testword :​
+
+  testword = “Error”​
+
+elif testword == “Hello”:​
+
+  testword += “World”​
+
+else:​
+
+  testword = “Warm” + testword​
+
+​
+
+print(testword)​
+
+​
+
+What is the result? => “Hello World”
+```
 
 
 
