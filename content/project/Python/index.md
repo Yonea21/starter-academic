@@ -2177,7 +2177,29 @@ An Algorithm is a procedure of operations. A state machine is a mofel of statech
 
 ![State machine](vending.png "<b>State machine</b> (draw.io)")
 
+> State machine representing your options on Google Standard Website searches (ignore options like filter or image searches, bibliosearches)
 
+> A deterministic state machine for the word «anna»
+
+![State machine](annad.png "<b>State machine</b> (draw.io)")
+
+> A non-deteministic state machine for the word «anna»
+
+![State machine](annand.png "<b>State machine</b> (draw.io)")
+
+> A state machine that can make the words «anna» and «ananas»
+
+![State machine](ananas.png "<b>State machine</b> (draw.io)")
+
+> Create a state machine for the song «Daddy Cool» from Boney M. One Word is a state (See example on the right)
+
+![State machine](daddycool.png "<b>State machine</b> (draw.io)")
+
+> Explain for 1, 2 and 5, if they are deterministic or non-deterministic
+
+1) is deterministic
+2) is non-deterministic
+5) is deterministic
 
 
 
