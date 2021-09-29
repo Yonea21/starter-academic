@@ -2112,6 +2112,7 @@ a>>=b
 a<<=b
 ```
 
+<br>
 
 Arithmetic Operators
 =====================
@@ -2141,6 +2142,7 @@ True
 3==3 and 1>0 = True
 3== and 1>2 = False
 
+<br>
 
 State Machines and Algorithms
 =============================
@@ -2201,6 +2203,7 @@ An Algorithm is a procedure of operations. A state machine is a mofel of statech
 2) is non-deterministic
 5) is deterministic
 
+<br>
 
 Conditions
 ==============
@@ -2244,6 +2247,7 @@ print(testword)​
 What is the result? => “Hello World”
 ```
 
+<br>
 
 For and Foreach Loops
 ======================
@@ -2268,6 +2272,8 @@ for element in ["a", "b", "c"]:
 
 What will be printed? => a, b, c
 ```
+
+<br>
 
 While Loop
 ================
@@ -2514,5 +2520,97 @@ run
 198
 200
 ```
+
+<br>
+
+Iterations
+===========
+
+Python provides multiple options to iterate over lists, tuples, strings etc. There are multiple extended techniques to iterate over the same list.
+
+Example1:
+```
+list = ["Superman", "Wonderwoman", "Captain America", "Batman", "Joker"]
+for i in list:
+    print(i)
+
+run
+
+Superman
+Wonderwoman
+Captain America
+Batman
+Joker
+```
+
+Example2:
+```
+list = ["Superman", "Wonderwoman", "Captain America", "Batman", "Joker"]
+length = len(list)
+for i in range(length):
+    print(list[i])
+
+run
+
+Superman
+Wonderwoman
+Captain America
+Batman
+Joker
+```
+
+Example3:
+```
+list = ["Superman", "Wonderwoman", "Captain America", "Batman", "Joker"]
+length = len(list)
+i = 0
+while i < length:
+    print(list[i])
+    i += 1
+
+run
+
+Superman
+Wonderwoman
+Captain America
+Batman
+Joker
+```
+
+Example4:
+```
+list = ["Superman", "Wonderwoman", "Captain America", "Batman", "Joker"]
+[print(i) for i in list]
+
+run
+
+Superman
+Wonderwoman
+Captain America
+Batman
+Joker
+```
+
+![Superheros](hero.jpg "<b>Superheros</b> (Photo by devp10 on Unsplash)")
+
+Example 5 - If we want to convert the list into an iterable list of tuples (or get the index based on a condition check, for example in linear search you might need to save the index of minimum element), you can use the enumerate() functio: 
+```
+list = ["Superman", "Wonderwoman", "Captain America", "Batman", "Joker"]
+for i, val in enumerate(list):
+    print (i, ",", val)
+
+run
+
+0 , Superman
+1 , Wonderwoman
+2 , Captain America
+3 , Batman
+4 , Joker
+```
+
+<br>
+
+Functions
+==============
 
 
