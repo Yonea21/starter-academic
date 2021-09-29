@@ -2528,7 +2528,7 @@ Iterations
 
 Python provides multiple options to iterate over lists, tuples, strings etc. There are multiple extended techniques to iterate over the same list.
 
-Example1:
+Example 1 - Using For Loop:
 ```
 list = ["Superman", "Wonderwoman", "Captain America", "Batman", "Joker"]
 for i in list:
@@ -2543,7 +2543,7 @@ Batman
 Joker
 ```
 
-Example2:
+Example 2 - For loop and range(). In case we want to use the traditional `for loop` which iterates from number x to number y:
 ```
 list = ["Superman", "Wonderwoman", "Captain America", "Batman", "Joker"]
 length = len(list)
@@ -2559,7 +2559,7 @@ Batman
 Joker
 ```
 
-Example3:
+Example 3 - Using while loop:
 ```
 list = ["Superman", "Wonderwoman", "Captain America", "Batman", "Joker"]
 length = len(list)
@@ -2577,7 +2577,7 @@ Batman
 Joker
 ```
 
-Example4:
+Example 4 - Using list comprehension (the most concrete way):
 ```
 list = ["Superman", "Wonderwoman", "Captain America", "Batman", "Joker"]
 [print(i) for i in list]
@@ -2613,4 +2613,15 @@ run
 Functions
 ==============
 
+A function is a block of code, that can be called by referencing it. You can define parameters to pass down. 
 
+Example: 
+def test_func(test_param):
+
+
+<br>
+
+Fibonacci
+===========
+
+![Fibonacci](fibonacci.jpg "<b>Fibonacci</b> (Photo by Ludde Lorentz on Unsplash)")
