@@ -2245,5 +2245,8 @@ What is the result? => “Hello World”
 ```
 
 
+For and Foreach Loops
+======================
+
 
 
