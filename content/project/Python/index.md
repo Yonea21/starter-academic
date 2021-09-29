@@ -2202,6 +2202,17 @@ An Algorithm is a procedure of operations. A state machine is a mofel of statech
 5) is deterministic
 
 
+Conditions
+==============
+
+> If-Sentence (mandatory) => Initial condition to check
+For example if 8 == 8, it will triger the code inside the if​
+
+> Elif-Sentence (optional) => Condition is triggered, when if’s or elif’s before are not met​
+For example if 8 == 9: BLABLA elif 8 == 8: BLABLA2​
+
+> Else-Sentence (optional) => Is triggered, when no conditions before are met​
+For example if 8 == 7: BLABLA elif 8 == 9: BLABLA2 else: BLABLA3
 
 
 
