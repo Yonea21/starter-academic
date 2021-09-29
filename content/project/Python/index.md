@@ -2248,5 +2248,50 @@ What is the result? => “Hello World”
 For and Foreach Loops
 ======================
 
+Python has no direct defference for "for" and "foreach" loops unlike other languages. **But** there is a way to do both:  
+For loops iterate over a range or list of items. I will take each specified and use the same oepration on each item specified. 
+
+For-implementations in pyhton are done with range(strat,end,step)-operation. The last number chosen is "end" - 1, so keep in mind to always choose "end" + 1, if the "end" should be computet too! Example:
+
+```
+for i in range (0,4,1):
+  print(i)
+
+What will be printed? => 0, 1, 2, 3 
+```
+
+Foreach-implementations in python are just basic for-loops over a list of something:
+
+```
+for element in ["a", "b", "c"]:
+  print(element)
+
+What will be printed? => a, b, c
+```
+
+While Loop
+================
+
+While-Loops are loops with conditions. There is no need for a deterministic-end like in "for"-loops. This means => For-Loops iterate over a fixed range or set of elements, While-Loops don't.
+
+While-Loops are running until their Condition change from "True" to "False".
+If the Condition's not "True" on entry, the Loop will not start. 
+
+Example:
+```
+should_run = True​
+
+while should_run:​
+
+  #do something
+```
+
+Important: If you have a condition, that never changes to "False", you have a infinite loop. Avoid that!
+Example:
+```
+while True
+  #infinite loop
+```
+
 
 
