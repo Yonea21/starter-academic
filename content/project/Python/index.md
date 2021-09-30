@@ -2694,6 +2694,28 @@ run
 
 <br>
 
+
+Yield vs. Return
+===================
+
++ **Yield** returns a generator object to the caller, and the execution of the code starts only when the generator is iterated. 
++ A **return** in a function is the end of the function execution, and a single value is given back to the caller.
+
++When the function
+
+
+
+BMI-Calculator
+====
+
+
+
+
+
+<br>
+
+
+
 Random
 =========
 
@@ -2755,6 +2777,10 @@ run
 
 Class and instances
 ==================
+
++ Classes are blueprints that define, how an object should work like
++ Objects are running and computing in your Runtime
++ An instance has several things: variables called properties assigned to it; a constructor that knows how to build the instance; functions that provide possible behaviour.
 
 
 
